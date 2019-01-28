@@ -1,3 +1,20 @@
+# Software Design Lab
+
+DHUM 71000  
+Course Number: 59977  
+Wednesday, 6:30 - 8:30 PM  
+3 Credits, Rm. TBA,   
+
+Patrick Smyth   
+patricksmyth01+softwaredesign@gmail.com  
+ 
+
+## Course Description
+
+Many digital humanities projects require the creation of software, and many of these projects are large, complex, or require sustained collaboration. Knowledge of particular methods, processes, and tools is necessary for completion and maintenance of significant projects in the digital humanities. This course will give students a foundation in software development methodologies that they can draw from throughout their coursework and career.
+ 
+This is a technical course, and students will learn a variety of hard and soft skills important for successful project completion. These include a limited number of fundamental concepts in programming, the use of version control, common software design patterns, managing state and persistence, and the basics of test driven development (TDD). The course will focus on two software "stacks," or collections of systems and tools frequently used alongside one another: a WordPress stack less focused on writing code, and a flexible stack based on coding in the Python programming language. Broader topics of discussion will include working to specifications, time line estimation, formulating an MVP, using project management tools, reading documentation, building for maintainability, and software ethics. After completing this course, students will be able to evaluate tradeoffs in software design, collaborate in a small group of mixed skills, and implement the most common techniques for designing modern software.
+
 ## Patrick's Technical Philosophy
 
 
@@ -9,17 +26,18 @@ Build from Small Pieces
 Practice, but Practice  
 Our Greatest Foe, Complexity  
 
+## Accessibility and Accomodations
 
+If a reasonable accommodation by myself or the Graduate Center would help you to achieve your goals for this course, you may either approach me for a discussion of possible accommodations or speak with the Graduate Center's [Disability Services Office](https://gc.cuny.edu/Prospective-Current-Students/Current-Students/Disability-Services). You can connect with Disability Services staff by emailing disabilityservices@gc.cuny.edu. Universal access is a critical part of my pedagogy, and I am always willing to discuss accessibility improvements, whether or not the discussion is predicated on a formal recognition of a disability by the university.
 
 ## Schedule
-
 
 Week One
 -----------------
 
 ### Homework: Get Ready to Bash
 
-In our first session, we will be discussing the aims and shape of the course. In the second half of the session, we will be learning some basics of the command line and Git. Your homework for this first day, should you happen to manage to read this syllabus, is to prepare your computer for this lesson by following the below instructions:
+In our first session, we will be discussing the aims and shape of the course. In the second half of the session, we will be learning some basics of the command line and Git. Your homework for this first day, should you happen to manage to read this syllabus in time, is to prepare your computer for this lesson by following the below instructions:
 
 [Installing Git and Git Bash](./instructions/installing_git_git_bash.md)
 
