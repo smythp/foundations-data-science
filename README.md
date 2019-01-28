@@ -64,14 +64,12 @@ Week Two
 
 ### Homework
 
-Install Anaconda
+Install Anaconda  
 Choose a text editor  
 Journal: Course goalss  
 Read *Decoding Liberation* Chapter 1: A Brief History of Computing and Software Development
 Read *Design for Designers*, Chapters 2 and 3  
 Read the [Agile manifesto](https://agilemanifesto.org/iso/en/manifesto.html)  
-
-Read 
 
 ### Discussion: Design Philosophies
 
@@ -90,7 +88,7 @@ Running Python scripts
 
 [Learn Python the Hard Way](https://learnpythonthehardway.org/book/) — Exercises 0 to 6  
 [Python Programming/Creating Python Programs](https://en.wikibooks.org/wiki/Python_Programming/Creating_Python_Programs) (A quicker but less detailed guide to running Python programs, may be useful if you've programmed in other languages)  
-[What Is Python Used For?](What is Python Used For?
+[What Is Python Used For?](https://blog.teamtreehouse.com/what-is-python)  
 )  
 
 
@@ -115,7 +113,7 @@ Accessibility is the quality of objects, interfaces, and information that determ
 
 HTML (HyperText Markup Language) is a way to meaningfully describe documents and their various elements in plain text for representation on the web. CSS, or Cascading Style Sheets, is a language for describing how HTML documents should be presented to users. In this session, we will
 
-Optional Resources:
+### Optional Lab Resources:
 
 [HTML on W3Schools](https://www.w3schools.com/html/html_intro.asp)  
 [CSS on W3Schools](https://www.w3schools.com/css/css_intro.asp)  
@@ -134,11 +132,9 @@ Week Four
 
 And choose and read one of the following:
 
-[The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/index.html)  
+[The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/index.html) or [Free as in Freedom](https://www.oreilly.com/openbook/freedom/)  
 
-or
 
-[Free as in Freedom](https://www.oreilly.com/openbook/freedom/)  
 
 ### Discussion: Ethics of Free, Open Source, and Proprietary Software
 
@@ -150,7 +146,7 @@ Boolean logic
 Conditionals  
 Iteration: for and while loops  
 
-Optional Resources:
+### Optional Lab Resources:
 
 Learn Python the Hard Way: 27-34  
 [DHRI Python tutorial](https://github.com/DHRI-Curriculum/python/blob/master/sections/loops.md) up to Finding Answers with Google  
@@ -165,8 +161,9 @@ Week Five
 [Why Use a Static Site Generator?](https://learn.cloudcannon.com/jekyll/why-use-a-static-site-generator/)  
 [Creating a website with WordPress: The good and the bad](https://www.hotdesign.com/marketing/wordpress-the-good-the-bad-2/)  
 [What is Bootstrap? – The History and the Hype](https://www.prestashop.com/en/blog/what-is-bootstrap)  
-
 [Brutalism: The ‘ugly’ web design trend taking over the internet](https://medium.com/envato/brutalism-the-ugly-web-design-trend-taking-over-the-internet-2dbc8e822e37)  
+
+[Install Jekyll](./instructions/installing_git_git_bash.md)
 
 
 ### Discussion: A Practical History of the Web
