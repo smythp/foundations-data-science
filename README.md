@@ -163,7 +163,7 @@ Week Five
 [What is Bootstrap? – The History and the Hype](https://www.prestashop.com/en/blog/what-is-bootstrap)  
 [Brutalism: The ‘ugly’ web design trend taking over the internet](https://medium.com/envato/brutalism-the-ugly-web-design-trend-taking-over-the-internet-2dbc8e822e37)  
 
-[Install Jekyll](./instructions/installing_git_git_bash.md)
+[Install Jekyll](./instructions/jekyll_install.md)  
 
 
 ### Discussion: A Practical History of the Web
