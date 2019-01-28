@@ -15,16 +15,48 @@ Many digital humanities projects require the creation of software, and many of t
  
 This is a technical course, and students will learn a variety of hard and soft skills important for successful project completion. These include a limited number of fundamental concepts in programming, the use of version control, common software design patterns, managing state and persistence, and the basics of test driven development (TDD). The course will focus on two software "stacks," or collections of systems and tools frequently used alongside one another: a WordPress stack less focused on writing code, and a flexible stack based on coding in the Python programming language. Broader topics of discussion will include working to specifications, time line estimation, formulating an MVP, using project management tools, reading documentation, building for maintainability, and software ethics. After completing this course, students will be able to evaluate tradeoffs in software design, collaborate in a small group of mixed skills, and implement the most common techniques for designing modern software.
 
+## Our Learning Objectives
+
+In this course, we'll
+
+- Learn what it means to design software.
+- Practice fundamentals of programming in the Python programming language.
+- Engage with the humanistic side of software development, including considerations of semantics, ethics, accessibility, and representation.
+- Consider selected topics in the history of computing.
+- Develop literacy in tools relevant to developing software, such as Git and the command line
+- Explore domain-specific languages such as HTML, CSS, and SQL
+- Identify programming paradigms such as imperative, object-oriented, and functional programming.
+- Learn industry techniques for collaboration, specification, planning, and negotiating technical tradeoffs.
+
 ## Patrick's Technical Philosophy
 
+### It's All Just Text
 
-It's All Just Text  
-Boring Is Better  
-Everything Old Is New Again  
-Simple, Not Easy  
-Build from Small Pieces  
-Practice, but Practice  
-Our Greatest Foe, Complexity  
+Most of what we'll do will involve writing text and handing it off to the computer to do stuff with it. This has some implications that I look forward to sharing with you.
+
+### Boring Is Better
+
+I tend to prefer technologies that have been around awhile. That means they're stable, there are copious and high-quality learning resources, they'll stick around, and they've been tested in the fires of production. (This is also why I like reading novels from before 1900.)
+
+### Simple, Not Easy
+
+Simple means that something does one thing and is therefore comprehensible. Easy means someone else did it for you, and guessed how you'd want to use it. The `cat` program you will learn the first day is simple. Facebook is easy.
+
+### Build from Small Pieces
+
+It often makes sense to understand small pieces of functionality really well, then make them talk to each other in ways that won't be confusing to you or to others.
+
+### Practice, but Practice
+
+Many people, including myself, have found that one learns technical skills most readily by alternating between performing deliberate practice, such as following a tutorial or reading a book, and doing practical things, such as working on small projects. You might also call this practice and praxis.
+
+### Our Greatest Foe, Complexity
+
+We shall fight it on the beaches. We shall fight it in the corridors on the fifth floor. We shall fight it in the kitchenette. We shall not flag or fail. We will fight complexity wherever we find it.
+
+### Teaching Is Learning
+
+To the extent that I know anything on these subjects, I know them because I've taught them. I encourage you to share your knowledge early, often, and freely. Develop your skills with an eye toward giving back to your community.
 
 ## Accessibility and Accomodations
 
