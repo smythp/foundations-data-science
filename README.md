@@ -28,6 +28,10 @@ In this course, we'll
 - Identify programming paradigms such as imperative, object-oriented, and functional programming.
 - Learn industry techniques for collaboration, specification, planning, and negotiating technical tradeoffs.
 
+## Accessibility and Accomodations
+
+If a reasonable accommodation by myself or the Graduate Center would help you to achieve your goals for this course, you may either approach me for a discussion of possible accommodations or speak with the Graduate Center's [Disability Services Office](https://gc.cuny.edu/Prospective-Current-Students/Current-Students/Disability-Services). You can connect with Disability Services staff by emailing disabilityservices@gc.cuny.edu. Universal access is a critical part of my pedagogy, and I am always willing to discuss accessibility improvements, whether or not the discussion is predicated on a formal recognition of a disability by the university.
+
 ## Patrick's Technical Philosophy
 
 ### It's All Just Text
@@ -58,9 +62,35 @@ We shall fight it on the beaches. We shall fight it in the corridors on the fift
 
 To the extent that I know anything on these subjects, I know them because I've taught them. I encourage you to share your knowledge early, often, and freely. Develop your skills with an eye toward giving back to your community.
 
-## Accessibility and Accomodations
+## Assessment
 
-If a reasonable accommodation by myself or the Graduate Center would help you to achieve your goals for this course, you may either approach me for a discussion of possible accommodations or speak with the Graduate Center's [Disability Services Office](https://gc.cuny.edu/Prospective-Current-Students/Current-Students/Disability-Services). You can connect with Disability Services staff by emailing disabilityservices@gc.cuny.edu. Universal access is a critical part of my pedagogy, and I am always willing to discuss accessibility improvements, whether or not the discussion is predicated on a formal recognition of a disability by the university.
+15% Discussion and Lab Contribution
+15% Personal goals follow-through
+20% Lab Journal
+20% Client role OR white paper
+30% Group software design project
+
+### Discussion and Lab Contribution (15%)
+
+This portion of your grade is based on your participation in weekly discussions and technical labs.
+
+### Personal goals follow-through (15%)
+
+At the beginning of the semester, we will set a series of specific personal goals based on expertise we wish to develop over the course of the semester, as well as a benchmark for how to demonstrate that expertise. The grade will therefore be based on your ability to meet your own expectations. This portion of the grade is intended to motivate us to seek what we need from the required self-study necessary for the course.
+
+### Lab Journal (20%)
+
+Your personal lab journal is an honest reflection of your own individual technical study. Every week, you will write the amount of time you spent on technical learning and experimentation and thoughts on your progress. The journal is intended as a mechanism to provide credit to you for time-consuming technical work, as well as to allow you to calibrate your habits and find out what approaches to study are most effective for you. To encourage the honesty needed for the journal to be useful, you may take two health weeks where you record no entries.
+
+### Client role OR white paper (20%)
+
+At the midpoint of the course, all students will suggest a well-scoped (that is, small) project, not to complete themselves but to be completed by a team of three fellow students. I will choose a set of these projects, and those students will serve in a client role for a team of developers. As the client role will take time, these students will be exempt from the short white paper assignment.
+
+The white paper  will take the form of a long (2000 words) blog post, academic paper, or Jupyter notebook that will be a reflection or development of a topic presented in the course.
+
+### Group software design project (30%)
+
+The group software design project takes the form of a collaboration to complete a software project specified by another student taking a client role. You will go through a process of communicating with your client, developing requirements, negotiating technical tradeoffs, planning an architecture, dividing up the technical work, meeting client requirements, and putting the result into production.
 
 ## Schedule
 
