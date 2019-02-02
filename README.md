@@ -126,16 +126,36 @@ Week Two
 
 ### Homework
 
-Install Anaconda  
-Choose a text editor  
 Journal: Course goalss  
-Read *Decoding Liberation* Chapter 1: A Brief History of Computing and Software Development
-Read *Design for Designers*, Chapters 2 and 3  
+Read *Decoding Liberation* Chapter 1: A Brief History of Computing and Software Development  
+Read *The Design of Design*Chapters 1, 2 and 3  
 Read the [Agile manifesto](https://agilemanifesto.org/iso/en/manifesto.html)  
 
 ### Discussion: Design Philosophies
 
 In software design, the most difficult problem is not in coding, but in planning, organizing, and completing software projects that match to concerns in the real-world. This week, we will compare prevalent design philosophies, including "waterfall" and "agile," and ask what we can learn from industry software development to apply in a digital humanities context.
+
+### Lab: Plain text
+
+In this lab, we'll talk about plain text—what it is and what it can be used for. We'll cover the use of a text editor, writing markdown, working with plain text in the command line, and pushing files to GitHub.
+
+### Optional Lab Resources:
+
+[Plain Text Definition](http://www.linfo.org/plain_text.html)  
+[Original post introducing markdown](https://daringfireball.net/projects/markdown/)  
+[What Is Markdown, and Why Is It Better for My To-Do Lists and Notes?
+](https://lifehacker.com/what-is-markdown-and-why-is-it-better-for-my-to-do-lis-5943320)  
+[Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)  
+
+
+-----
+
+## Week Three
+
+### Homework
+
+Install [Anaconda](https://www.anaconda.com/)  
+This will be a full lab session, with no discussion this week. Please prepare yourself for learning Python by spending time with the optional lab resources.  
 
 ### Lab: Python I 
 
@@ -145,18 +165,15 @@ Using the REPL
 Data types  
 Variables  
 Running Python scripts  
+Boolean logic  
+Conditionals  
+Iteration: for and while loops  
 
-### Optional Lab Resources:
+### Optional Lab Resources
 
 [Learn Python the Hard Way](https://learnpythonthehardway.org/book/) — Exercises 0 to 6  
 [Python Programming/Creating Python Programs](https://en.wikibooks.org/wiki/Python_Programming/Creating_Python_Programs) (A quicker but less detailed guide to running Python programs, may be useful if you've programmed in other languages)  
 [What Is Python Used For?](https://blog.teamtreehouse.com/what-is-python)  
-)  
-
-
------
-
-## Week Three
 
 ### Homework
 
@@ -200,18 +217,7 @@ And choose and read one of the following:
 
 ### Discussion: Ethics of Free, Open Source, and Proprietary Software
 
-
-
-### Lab: Python II
-
-Boolean logic  
-Conditionals  
-Iteration: for and while loops  
-
-### Optional Lab Resources:
-
-Learn Python the Hard Way: 27-34  
-[DHRI Python tutorial](https://github.com/DHRI-Curriculum/python/blob/master/sections/loops.md) up to Finding Answers with Google  
+### Lab:
 
 -----
 
@@ -260,11 +266,14 @@ Week Seven
 
 ### Discussion: Tradeoffs, maintenance, and choosing technologies
 
-### Lab: Python III
+### Lab: Python II
 
-Writing functions
-Importing libraries
-Objects in Python
+
+
+### Optional Lab Resources:
+
+
+)  
 
 Week Eight
 ----------
@@ -282,7 +291,16 @@ Week Nine
 
 ### Discussion: Model View Controller (MVC) Paradigm
 
-### Lab: Python IV: Implementing MVC with Flask
+### Lab: Python III
+
+Writing functions
+Importing libraries
+Objects in Python
+
+### Optional Lab Resources
+
+Learn Python the Hard Way: 27-34  
+[DHRI Python tutorial](https://github.com/DHRI-Curriculum/python/blob/master/sections/loops.md) up to Finding Answers with Google  
 
 Week Ten
 --------
