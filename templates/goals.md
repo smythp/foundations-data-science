@@ -3,10 +3,11 @@
 
 ## Goal One
 
+Use better pedagogy!
 
 -----
 
-Benchmark:
+Benchmark: Learn three new things about scaffolding.
 
 
 ## Goal Two

@@ -1,0 +1,63 @@
+* design of design 1, 2, 3
+
+----------Chapter 1
+
+
+here we're concerned with systems design, not artistic design. they're both creative, but the end products are different
+
+we're also concerned with original design, rather than following laid-out instructions or decision trees
+
+three aspects of making:
+
+1. conceptual construct
+2. implementation
+3. interactivity, real uses
+
+we have the platonic ideal of a thing, then the implementation is an instantiation of the thing
+
+design concepts should have conceptual integrity. a good design should delight
+keeping a vision of the project as a unified whole makes individual decisions easier—do they fit the paradig of the design?
+
+----------Chapter 2
+
+rational model — kind of a straw man here, usually associated with figuring everything out and then doing it all. waterfall is a faous example of this
+rational model seems great on paper and makes sense to admin types, but experienced designers almost never do things this way
+
+desideratum
+
+design is typically optimized toward a utility function
+
+asymptotic utility — each window, or bit of spped, or whatever is slightly less valuable than the ones before
+
+Constrains — limits on the shape of the project
+
+resource allocation — liited resources are a specific kind of restraint that is present in every project
+
+design tree
+
+
+----------chapter 3
+
+rational model seems like how it ought to work, but it doesn't really work that way
+
+the hardest part of design is deciding what to design
+
+iteration is constantly necessary based on interaction with the real world
+
+iteration and rapid prototyping are now considered the way to do things, which includes helping clients figure out what they need
+
+goal iteration
+
+why we need to do iterative design:
+
+1. We don't know the goal when we start
+2. We don't know the full design tree but uncover it
+3. The design tree is super complex with a lot of branches
+4. We can't tell whether decisions will really fit until we try them
+5. Requirements and constraints change
+6. Designers just don't work that way
+
+why do we still have the rational model around?
+
+1. Novices like it
+2. Bosses like it
