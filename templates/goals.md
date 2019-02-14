@@ -5,7 +5,7 @@
 
 Use better pedagogy!
 
------
+fun goals-----
 
 Benchmark: Learn three new things about scaffolding.
 
