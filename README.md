@@ -206,33 +206,12 @@ Week Four
 
 ### Homework
 
-*Decoding Liberation*: Chapters 4, 5, and 10  
-[FSF: What Is Free Software?](https://www.gnu.org/philosophy/free-sw.en.html)  
-
-And choose and read one of the following:
-
-[The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/index.html) or [Free as in Freedom](https://www.oreilly.com/openbook/freedom/)  
-
-
-
-### Discussion: Ethics of Free, Open Source, and Proprietary Software
-
-### Lab:
-
------
-
-Week Five
----------
-
-### Homework
-
 [Why Use a Static Site Generator?](https://learn.cloudcannon.com/jekyll/why-use-a-static-site-generator/)  
 [Creating a website with WordPress: The good and the bad](https://www.hotdesign.com/marketing/wordpress-the-good-the-bad-2/)  
 [What is Bootstrap? – The History and the Hype](https://www.prestashop.com/en/blog/what-is-bootstrap)  
 [Brutalism: The ‘ugly’ web design trend taking over the internet](https://medium.com/envato/brutalism-the-ugly-web-design-trend-taking-over-the-internet-2dbc8e822e37)  
 
 [Install Jekyll](./instructions/jekyll_install.md)  
-
 
 ### Discussion: A Practical History of the Web
 
@@ -245,6 +224,24 @@ This discussion will describe web tecnology in 2018 by tracing some history and 
 ### Lab: Static sites with Jekyll
 
 Static site generators provide a way to build a website that has modern functionality—blogging, RSS, templating, markdown—without the overhead of a database. While certain features, such as comment sections, are difficult to implement on a static site, static sites have many advantages: they are more maintainable, simpler to understand and modify, are difficult to hack, and are more archivable and sustainable. They also fit neatly into a content management workflow that includes the command line, a text editor, Git, and markdown.
+
+-----
+
+Week Five
+---------
+
+### Homework
+
+*Decoding Liberation*: Chapters 4, 5, and 10  
+[FSF: What Is Free Software?](https://www.gnu.org/philosophy/free-sw.en.html)  
+
+And choose and read one of the following:
+
+[The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/index.html) or [Free as in Freedom](https://www.oreilly.com/openbook/freedom/)  
+
+### Discussion: Ethics of Free, Open Source, and Proprietary Software
+
+### Lab: Writing Functions in Python
 
 -----
 
