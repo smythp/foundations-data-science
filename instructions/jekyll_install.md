@@ -39,12 +39,15 @@ You may need to agree to a terms and conditions window that appears.
 3\. Install Homebrew. (If you already have Homebrew, you can skip this step.) After the xcode installation completes, enter the following to install Homebrew. (Make sure you don't omit the beginning or end of this command.)
 
 	/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
 4\. Install Ruby:
 
 	brew install ruby
-5\. Install Jekyll:
+5\. Install Jekyll and Bundler:
 
 	sudo gem install jekyll
+	sudo gem install bundler
+	
 6\. Check that Jekyll is installed:
 
 	jekyll -v
