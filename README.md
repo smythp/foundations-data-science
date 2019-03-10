@@ -94,20 +94,19 @@ The group software design project takes the form of a collaboration to complete 
 
 ## Schedule
 
-Week One
------------------
+### Week One
 
-### Homework: Get Ready to Bash
+#### Homework: Get Ready to Bash
 
 In our first session, we will be discussing the aims and shape of the course. In the second half of the session, we will be learning some basics of the command line and Git. Your homework for this first day, should you happen to manage to read this syllabus in time, is to prepare your computer for this lesson by following the below instructions:
 
 [Installing Git and Git Bash](./instructions/installing_git_git_bash.md)
 
-### Discussion: Welcome, Course Overview, and Guiding Principles
+#### Discussion: Welcome, Course Overview, and Guiding Principles
 
 For our discussion this week, we will review the course and this syllabus.
 
-### Lab: Command Line and Git
+#### Lab: Command Line and Git
 
 For our lab this week, we will explore two foundational tools for modern software design: the UNIX command line and the Git versioncontrol system.
 
@@ -121,25 +120,25 @@ Optional Lab Resources:
 
 -----
 
-Week Two
---------
+### Week Two
 
-### Homework
+
+#### Homework
 
 Journal: Course goalss  
 Read *Decoding Liberation* Chapter 1: A Brief History of Computing and Software Development  
 Read *The Design of Design*Chapters 1, 2 and 3  
 Read the [Agile manifesto](https://agilemanifesto.org/iso/en/manifesto.html)  
 
-### Discussion: Design Philosophies
+#### Discussion: Design Philosophies
 
 In software design, the most difficult problem is not in coding, but in planning, organizing, and completing software projects that match to concerns in the real-world. This week, we will compare prevalent design philosophies, including "waterfall" and "agile," and ask what we can learn from industry software development to apply in a digital humanities context.
 
-### Lab: Plain text
+#### Lab: Plain text
 
 In this lab, we'll talk about plain text—what it is and what it can be used for. We'll cover the use of a text editor, writing markdown, working with plain text in the command line, and pushing files to GitHub.
 
-### Optional Lab Resources:
+#### Optional Lab Resources:
 
 [Plain Text Definition](http://www.linfo.org/plain_text.html)  
 [Original post introducing markdown](https://daringfireball.net/projects/markdown/)  
@@ -152,12 +151,12 @@ In this lab, we'll talk about plain text—what it is and what it can be used fo
 
 ## Week Three
 
-### Homework
+#### Homework
 
 Install [Anaconda](https://www.anaconda.com/)  
 This will be a full lab session, with no discussion this week. Please prepare yourself for learning Python by spending time with the optional lab resources.  
 
-### Lab: Python I 
+#### Lab: Python I 
 
 Our first session on the Python programming language will include these topics:
 
@@ -169,22 +168,24 @@ Boolean logic
 Conditionals  
 Iteration: for and while loops  
 
-### Optional Lab Resources
+#### Optional Lab Resources
 
 [Learn Python the Hard Way](https://learnpythonthehardway.org/book/) — Exercises 0 to 6  
 [Python Programming/Creating Python Programs](https://en.wikibooks.org/wiki/Python_Programming/Creating_Python_Programs) (A quicker but less detailed guide to running Python programs, may be useful if you've programmed in other languages)  
 [What Is Python Used For?](https://blog.teamtreehouse.com/what-is-python)  
 
-### Homework
+-----
+
+### Week Four
+
+#### Homework
 
 Read *A Web for Everyone*: Chapters 1 and 2 
 [How People with Disabilities Use the Web: Tools and Techniques \(W3C\)](https://www.w3.org/WAI/people-use-web/tools-techniques/)  
 [Dear Developer, The Web Isn't About You](https://www.sonniesedge.co.uk/talks/dear-developer)  
 [Two Bit History: The World Wide Web and Its Inventor](https://twobithistory.org/2018/06/10/birth-of-the-web.html)  
 
-
-
-### Discussion: Accessibility
+#### Discussion: Accessibility
 
 Accessibility is the quality of objects, interfaces, and information that determines their availability to a broad variety of human experiences. If software is inaccessible, it may only be usable by a narrow band of humanity. Since an overwhelming majority of software developers are young and able (also white, economically advantaged, and male), considerations such as users with alternate cognitive, sensory, and mobility needs or infrastructural inequality are considered an afterthought. This week, we will discuss access in software design and specifically the web, including consideration of semantics, fallbacks, and "simple vs. easy" in software design.
 
@@ -201,8 +202,8 @@ HTML (HyperText Markup Language) is a way to meaningfully describe documents and
 
 -----
 
-Week Four
----------
+### Week Five
+
 
 ### Homework
 
@@ -227,12 +228,12 @@ Static site generators provide a way to build a website that has modern function
 
 -----
 
-Week Five
----------
+### Week Six
+
 
 ### Homework
 
-*Decoding Liberation*: Chapters 4, 5, and 10  
+*Decoding Liberation*: Chapter 2  
 [FSF: What Is Free Software?](https://www.gnu.org/philosophy/free-sw.en.html)  
 
 And choose and read one of the following:
@@ -243,73 +244,107 @@ And choose and read one of the following:
 
 ### Lab: Writing Functions in Python
 
+Update: Here is the application we wrote in class: [Magic 9 Ball](https://github.com/smythp/magic-9-ball)
+
 -----
 
-Week Six
---------
+### Week Seven
 
 ### Homework
+
+Read [An Introduction to Programming Paradigms](https://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigms/)  
 
 ### Discussion
 
+In this session, we'll use our discussion time to introduce the idea of a programming paradigm and two paradigms in particular: functional programming and object-oriented programming.
+
 ### Lab
 
-Week Seven
-----------
-
-### Homework
-
-
-
-### Discussion: Tradeoffs, maintenance, and choosing technologies
-
-### Lab: Python II
-
-
+In this lab, we'll introduce some new concepts. First, we'll talk about complexity and why we avoid it in programming. Then we'll discuss "state"—keeping track of changes over time—and how different styles of programming deal with it. We'll try to solve a problem usingb three different paradigms: imperative, functional, and object-oriented.
 
 ### Optional Lab Resources:
 
+[Functional Concepts](https://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigmshttps://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigms#orgheadline14)  
+[Object-Oriented Concepts](https://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigmshttps://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigmsorgheadline16)  
 
-)  
-
-Week Eight
 ----------
 
+### Week EIght
+
 ### Homework
 
-### Discussion: Planning final projects
+TBA
 
-### Lab: SQL
+### Discussion: Iterating on a Prototype
 
-Week Nine
+Visitors: Designers [Adam Brodowski](http://abrodowski.com/) and [Clara Bunker](https://static1.squarespace.com/static/5124eae7e4b04a9f6b67f96c/t/56c5ff94f699bb85667432f3/1455816606963/Clara-Bunker_Portfolio_Ultra-Short_16-02-17.pdf)
+
+In designing software, one must typically work with clients or constituents to delineate and refine requirements. In this discussion, Clara Bunker and Adam Brodowski, two design professional who specialize in product iteration and rapid prototyping, will join us.to describe the process of working with clients and iterating on a design.
+
+### Lab: Project Iteration
+
+In this lab, we'll do whatever Adam and Clara tell us to do.
+
+### Optional Lab Resources:
+
+[Get it RITE: Rapid Iterative Testing and Evaluation (RITE)](http://uxpamagazine.org/get_it_rite/)  
+
+----------
+
+### Week Nine
+
+#### Homework
+
+Write a description and requirements for a project for which you would be the client. I will choose a representative set of these projects and, next week, will post them for teams and individuals to take on as their client project.
+
+#### Discussion: Planning final projects
+
+Our final project will involve working with a client to determine requirements, negotiate tradeoffs in choosing a technological stack, and implement a prototype or MVP. This assignment is more focused on process than results, and will be graded not on the end product but on documentation of the steps you take to get there.
+
+#### Lab: SQL
+
+Structured Query Language (SQL) is a domain-specific language for storing and retrieving data in a database. We will use the command line interface to SQLite3, a relatively lightweight relational database engine frequently used in devices such as mobile phones, to store and retrieve structured data.
+
+#### Optional Lab Resources:
+
+[Learn SQL the Hard Way](https://learncodethehardway.org/sql/)  
+[SQL Tutorial on W3Schools](https://www.w3schools.com/sql/)  
+[DHRI Session on Databases](https://github.com/DHRI-Curriculum/databases)  
+
 ---------
 
-### Homework
+### Week Ten
 
-### Discussion: Model View Controller (MVC) Paradigm
+#### Homework
 
-### Lab: Python III
+#### Discussion: Model View Controller (MVC) Paradigm
 
-Writing functions
-Importing libraries
-Objects in Python
+In this brief discussion, we'll talk about the model, view, controller (MVC)paradigm, in which different parts of the code base manage state, display information, and manage logic, respectively.
 
-### Optional Lab Resources
+#### Lab: Prototype Web App with Flask
 
-Learn Python the Hard Way: 27-34  
-[DHRI Python tutorial](https://github.com/DHRI-Curriculum/python/blob/master/sections/loops.md) up to Finding Answers with Google  
+In this lab, we'll create a small website with some basic logic using Flask.
 
-Week Ten
---------
+#### Optional Lab Resources
 
-### Homework
+[Creating APIs in Python and Flask on the Programming Historian (section on creating a small test API)](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask#implementing-our-api)  
+[The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)  
+[Prototype Twitter Clone in Flask](https://github.com/smythp/intro-to-flask)  
 
-### Discussion: Strategies for Dealing with Hard Problems
+----
 
-### Lab: Python V: Exploring an API
+### Week Eleven
 
-Week Eleven
------------
+#### Homework
+
+#### Discussion: Strategies for Dealing with Hard Problems
+
+#### Lab: Python V: Exploring an API
+
+-----
+
+### Week Twelve
+
 
 ### Homework
 
