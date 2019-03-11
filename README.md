@@ -3,11 +3,12 @@
 DHUM 71000  
 Course Number: 59977  
 Wednesday, 6:30 - 8:30 PM  
-3 Credits, Rm. TBA,   
+3 Credits, Room 3309
 
 Patrick Smyth   
 patricksmyth01+softwaredesign@gmail.com  
- 
+
+[Dropbox readings](https://www.dropbox.com/sh/qgyrt3325y606sf/AADK4REvuFROf-u1YzZ4jeWla?dl=0)  )
 
 ## Course Description
 
