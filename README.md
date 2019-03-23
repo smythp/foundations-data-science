@@ -286,6 +286,8 @@ In designing software, one must typically work with clients or constituents to d
 
 In this lab, we'll do whatever Adam and Clara tell us to do.
 
+[Update: View the presentation](instructions/MVP Scoping at CUNY.pdf)  
+
 ### Optional Lab Resources:
 
 [Get it RITE: Rapid Iterative Testing and Evaluation (RITE)](http://uxpamagazine.org/get_it_rite/)  
@@ -296,7 +298,17 @@ In this lab, we'll do whatever Adam and Clara tell us to do.
 
 #### Homework
 
-Write a description and requirements for a project for which you would be the client. I will choose a representative set of these projects and, next week, will post them for teams and individuals to take on as their client project.
+Write a call for programmers (think an advertisement for a freelance site or similar) for a project for which you would be the client. I will choose a representative set of these projects and, next week, will post them for teams and individuals to take on as their client project.
+
+Your description of the project should be 350-500 words and should have three sections.
+
+1. Description (What is the software that you need built? What is its purpose? Who is it for?)
+2. Requirements (What do you see right now as essential to the software? Are there any limitations that your team of software designers will need to know about?)
+3. About you or your organization (Why should a team of designers want to work on your project? Why is this software meaningful, important, or urgent? Why are you the one to ask that this software be made?)
+
+Your request for software should reflect the skills we've been learning in the course. In practice this means it should be either a static website, a web app, an API, a command line program, or a Python module (a library for a task that can be imported). The project should ideally be extremely small in scope. If it's an API, it should serve up a very small data set and consist of only a few request types. If it's a static site, it should be no larger than five pages. If it's a module, it should do one simple task.
+
+It's all Right if your post is longer than 500 words. Please upload your posting to GitHub and link me to the page where it is visible (preferred) or email it to me by Tuesday night.
 
 #### Discussion: Planning final projects
 
