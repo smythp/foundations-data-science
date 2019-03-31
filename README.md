@@ -286,7 +286,7 @@ In designing software, one must typically work with clients or constituents to d
 
 In this lab, we'll do whatever Adam and Clara tell us to do.
 
-[Update: View the presentation](instructions/MVP Scoping at CUNY.pdf)  
+[Update: [View the presentation](instructions/MVP Scoping at CUNY.pdf)  
 
 ### Optional Lab Resources:
 
@@ -329,6 +329,8 @@ Structured Query Language (SQL) is a domain-specific language for storing and re
 ### Week Ten
 
 #### Homework
+
+
 
 #### Discussion: Model View Controller (MVC) Paradigm
 
