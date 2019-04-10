@@ -270,17 +270,17 @@ In this lab, we'll introduce some new concepts. First, we'll talk about complexi
 
 ----------
 
-### Week EIght
+### Week Eight
 
 ### Homework
 
-TBA
+Continue work on journals. No formal reading.
 
 ### Discussion: Iterating on a Prototype
 
 Visitors: Designers [Adam Brodowski](http://abrodowski.com/) and [Clara Bunker](https://static1.squarespace.com/static/5124eae7e4b04a9f6b67f96c/t/56c5ff94f699bb85667432f3/1455816606963/Clara-Bunker_Portfolio_Ultra-Short_16-02-17.pdf)
 
-In designing software, one must typically work with clients or constituents to delineate and refine requirements. In this discussion, Clara Bunker and Adam Brodowski, two design professional who specialize in product iteration and rapid prototyping, will join us.to describe the process of working with clients and iterating on a design.
+In designing software, one must typically work with clients or constituents to delineate and refine requirements. In this discussion, Clara Bunker and Adam Brodowski, two design professionals who specialize in product iteration and rapid prototyping, will join us.to describe the process of working with clients and iterating on a design.
 
 ### Lab: Project Iteration
 
@@ -353,9 +353,16 @@ In this lab, we'll create a small website with some basic logic using Flask.
 
 #### Homework
 
-#### Discussion: Strategies for Dealing with Hard Problems
+#### Discussion: Final Projects and White Paper assignment
 
-#### Lab: Python V: Exploring an API
+#### Lab: More SQL
+
+In this lab, we'll continue our work on SQL using SQLite.
+
+#### Optional Lab Resources
+
+[DHRI Introduction to Databases](https://github.com/DHRI-Curriculum/databases)  
+[Learn SQL the Hard Way](https://learncodethehardway.org/sql/) (must be purchased)  
 
 -----
 
@@ -364,20 +371,12 @@ In this lab, we'll create a small website with some basic logic using Flask.
 
 ### Homework
 
-### Discussion: Programming Paradigms
-
-### Lab: Object-oriented Python
+### Lab: Deploying to P
 
 Week Twelve
 -----------
 
-### Homework
-
-Code Simplicity: The Fundamentals of Software Chapter 8  
-
-### Discussion: Managing Complexity
-
-
+** Spring Recess, no classes **
 
 ### Lab: Writing a module
 
@@ -390,9 +389,9 @@ Week Thirteen
 
 ### Lab:
 
-Estimating Time Choosing technologies Communication styles User
-experience stories Tackling problems (dividing up, pseudocode,
-whiteboarding) Specifications
+
+
+
 
 Programming paradigms Static sites SQL CMS and WordPress MVC Version
 control Debugging Test driven development (TDD) Hosting and SSH
