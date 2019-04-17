@@ -83,7 +83,7 @@ At the beginning of the semester, we will set a series of specific personal goal
 
 Your personal lab journal is an honest reflection of your own individual technical study. Every week, you will write the amount of time you spent on technical learning and experimentation and thoughts on your progress. The journal is intended as a mechanism to provide credit to you for time-consuming technical work, as well as to allow you to calibrate your habits and find out what approaches to study are most effective for you. To encourage the honesty needed for the journal to be useful, you may take two health weeks where you record no entries.
 
-### Client role OR white paper (20%)
+### Client role OR [white paper](assignments/blog_post.md) (20%)
 
 At the midpoint of the course, all students will suggest a well-scoped (that is, small) project, not to complete themselves but to be completed by a team of three fellow students. I will choose a set of these projects, and those students will serve in a client role for a team of developers. As the client role will take time, these students will be exempt from the short white paper assignment.
 
@@ -372,7 +372,8 @@ In this lab, we'll continue our work on SQL using SQLite.
 
 In this discussion, we'll do a little spring cleaning, discussing the course assignments and checking in on final projects.
 
-[Final Project Deliverable](assignments/project_deliverable.md )
+[Final Project Deliverable](assignments/project_deliverable.md )  
+[Blog post or white paper](assignments/blog_post.md)
 
 ### Lab: Deploying to Production
 
