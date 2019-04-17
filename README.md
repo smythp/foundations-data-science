@@ -89,7 +89,7 @@ At the midpoint of the course, all students will suggest a well-scoped (that is,
 
 The white paper  will take the form of a long (2000 words) blog post, academic paper, or Jupyter notebook that will be a reflection or development of a topic presented in the course.
 
-### Group software design project (30%)
+### [Group software design project](assignments/project_deliverable.md ) (30%)
 
 The group software design project takes the form of a collaboration to complete a software project specified by another student taking a client role. You will go through a process of communicating with your client, developing requirements, negotiating technical tradeoffs, planning an architecture, dividing up the technical work, meeting client requirements, and putting the result into production.
 
@@ -368,10 +368,17 @@ In this lab, we'll continue our work on SQL using SQLite.
 
 ### Week Twelve
 
+### Discussion: Spring cleaning
 
-### Homework
+In this discussion, we'll do a little spring cleaning, discussing the course assignments and checking in on final projects.
 
-### Lab: Deploying to P
+[Final Project Deliverable](assignments/project_deliverable.md )
+
+### Lab: Deploying to Production
+
+In this lab, we'll talk about getting your work into other people's hands. We'll focus on the web, and discuss GitHub Pages as a quick way to get static sties online. We'll also talk about options for putting web applications into production, though we won't be able to cover that fully in class.
+
+
 
 Week Twelve
 -----------
