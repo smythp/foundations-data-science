@@ -386,26 +386,25 @@ Week Twelve
 
 ** Spring Recess, no classes **
 
-### Lab: Writing a module
-
 Week Thirteen
 -------------
 
-### Homework
+### Discussion: Projects
 
-### Discussion: Responsibility and mentorship
+In this discussion, we'll catch up with our blog posts and client projects as we move into the end of the semester.
+
+### Lab: Introspection
+
+In this lab, we'll work with an API and use introspection—looking at objects in memory—to find out what's going on with data loaded into Python.
 
 ### Lab:
 
+## Week Fourteen
 
+### Homework
 
+Read *From Deficits to Possibilities: Mentoring Lessons from Plants on Cultivating Individual Growth through Environmental Assessment and Optimization*  
 
+### Discussion: Mentorship
 
-Programming paradigms Static sites SQL CMS and WordPress MVC Version
-control Debugging Test driven development (TDD) Hosting and SSH
-
-
-
-# sort
-
-http://beza1e1.tuxen.de/waterfall.html
+In our final discussion, we'll talk about building community, mentorship, and how to be a programmer in a humanities context...or a humanist in a programming context.
