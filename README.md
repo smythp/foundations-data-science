@@ -1,12 +1,13 @@
 # Software Design Lab
 
-DHUM 71000  
+DHUM 6494  
 Course Number: 59977  
 Wednesday, 6:30 - 8:30 PM  
 3 Credits, Room 3309
 
 Patrick Smyth   
 patricksmyth01+softwaredesign@gmail.com  
+[First-Day Information Collection Form](https://docs.google.com/forms/d/e/1FAIpQLScmqXmxevfGqsWyafmKmXVahopy1c-qYOGC5KlZuQ-VYW_G3A/viewform?usp=sf_link)  
 
 [Dropbox readings](https://www.dropbox.com/sh/qgyrt3325y606sf/AADK4REvuFROf-u1YzZ4jeWla?dl=0)  )
 
@@ -65,11 +66,11 @@ To the extent that I know anything on these subjects, I know them because I've t
 
 ## Assessment
 
-15% Discussion and Lab Contribution
-15% Personal goals follow-through
-20% Lab Journal
-20% Client role OR white paper
-30% Group software design project
+15% Discussion and Lab Contribution  
+15% Personal goals follow-through  
+20% Lab Journal  
+20% Client role OR white paper  
+30% Group software design project  
 
 ### Discussion and Lab Contribution (15%)
 
