@@ -180,6 +180,22 @@ Iteration: for and while loops
 
 ### Week Four
 
+### Homework
+
+Windows Users: Make Python accessible from Git Bash using instructions send via email  
+Practice Python using one of the recommended resources  
+If your goals and journal have not been pushed to GitHub yet, now is the time!  
+
+### Discussion: Goals and Journal
+
+We will review our goals and our workflow for pushing journal entries to GitHub.
+
+### Lab: More Python (importing libraries, functions)
+
+-----
+
+### Week Five
+
 #### Homework
 
 Read *A Web for Everyone*: Chapters 1 and 2 
@@ -204,7 +220,7 @@ HTML (HyperText Markup Language) is a way to meaningfully describe documents and
 
 -----
 
-### Week Five
+### Week Six
 
 
 ### Homework
@@ -222,31 +238,11 @@ In the beginning, there was HTML. Web pages were documents that connected to oth
 
 Also, Javascript. And web apps. And frontend frameworks. How does all this stuff fit together?
 
-This discussion will describe web tecnology in 2018 by tracing some history and taking note of major concepts and movements.
+This discussion will describe web tecnology in 2020 by tracing some history and taking note of major concepts and movements.
 
 ### Lab: Static sites with Jekyll
 
 Static site generators provide a way to build a website that has modern functionality—blogging, RSS, templating, markdown—without the overhead of a database. While certain features, such as comment sections, are difficult to implement on a static site, static sites have many advantages: they are more maintainable, simpler to understand and modify, are difficult to hack, and are more archivable and sustainable. They also fit neatly into a content management workflow that includes the command line, a text editor, Git, and markdown.
-
------
-
-### Week Six
-
-
-### Homework
-
-*Decoding Liberation*: Chapter 2  
-[FSF: What Is Free Software?](https://www.gnu.org/philosophy/free-sw.en.html)  
-
-And choose and read one of the following:
-
-[The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/index.html) or [Free as in Freedom](https://www.oreilly.com/openbook/freedom/)  
-
-### Discussion: Ethics of Free, Open Source, and Proprietary Software
-
-### Lab: Writing Functions in Python
-
-Update: Here is the application we wrote in class: [Magic 9 Ball](https://github.com/smythp/magic-9-ball)
 
 -----
 
