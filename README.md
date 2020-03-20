@@ -248,47 +248,59 @@ Static site generators provide a way to build a website that has modern function
 
 ### Week Seven
 
-### Homework
+Instructional pause.
 
-Read [An Introduction to Programming Paradigms](https://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigms/)  
+<!-- ### Homework -->
 
-### Discussion
+<!-- Read [An Introduction to Programming Paradigms](https://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigms/)   -->
 
-In this session, we'll use our discussion time to introduce the idea of a programming paradigm and two paradigms in particular: functional programming and object-oriented programming.
+<!-- ### Discussion -->
 
-### Lab
+<!-- In this session, we'll use our discussion time to introduce the idea of a programming paradigm and two paradigms in particular: functional programming and object-oriented programming. -->
 
-In this lab, we'll introduce some new concepts. First, we'll talk about complexity and why we avoid it in programming. Then we'll discuss "state"—keeping track of changes over time—and how different styles of programming deal with it. We'll try to solve a problem usingb three different paradigms: imperative, functional, and object-oriented.
+<!-- ### Lab -->
 
-### Optional Lab Resources:
+<!-- In this lab, we'll introduce some new concepts. First, we'll talk about complexity and why we avoid it in programming. Then we'll discuss "state"—keeping track of changes over time—and how different styles of programming deal with it. We'll try to solve a problem usingb three different paradigms: imperative, functional, and object-oriented. -->
 
-[Functional Concepts](https://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigmshttps://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigms#orgheadline14)  
-[Object-Oriented Concepts](https://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigmshttps://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigmsorgheadline16)  
+<!-- ### Optional Lab Resources: -->
+
+<!-- [Functional Concepts](https://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigmshttps://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigms#orgheadline14)   -->
+<!-- [Object-Oriented Concepts](https://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigmshttps://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigmsorgheadline16)   -->
 
 ----------
 
 ### Week Eight
 
+Solving problems using Python.
+
 ### Homework
 
-Continue work on journals. No formal reading.
+No homework for this week, though you may consider exploring how to write functions and to use functions from imported libraries in whichever Python resource you are currently learning from.
 
-### Discussion: Iterating on a Prototype
+### Lab
 
-Visitors: Designers [Adam Brodowski](http://abrodowski.com/) and [Clara Bunker](https://static1.squarespace.com/static/5124eae7e4b04a9f6b67f96c/t/56c5ff94f699bb85667432f3/1455816606963/Clara-Bunker_Portfolio_Ultra-Short_16-02-17.pdf)
+In this lab, we'll work together to create a small Python prototype to solve a problem. Please email if you have ideas about a problem (limited in scope) that might be suitable. We'll discuss how to write functions and how to research libraries that might be of use to address a problem domain. We'll also talk about code introspection, or how to get Python to tell you what it's thinking.
 
-In designing software, one must typically work with clients or constituents to delineate and refine requirements. In this discussion, Clara Bunker and Adam Brodowski, two design professionals who specialize in product iteration and rapid prototyping, will join us.to describe the process of working with clients and iterating on a design.
+<!-- ### Homework -->
 
-### Lab: Project Iteration
+<!-- Continue work on journals. No formal reading. -->
 
-In this lab, we'll do whatever Adam and Clara tell us to do.
+<!-- ### Discussion: Iterating on a Prototype -->
 
-Update: [View the presentation](instructions/mvp_scoping_at_cuny.pdf)
+<!-- Visitors: Designers [Adam Brodowski](http://abrodowski.com/) and [Clara Bunker](https://static1.squarespace.com/static/5124eae7e4b04a9f6b67f96c/t/56c5ff94f699bb85667432f3/1455816606963/Clara-Bunker_Portfolio_Ultra-Short_16-02-17.pdf) -->
 
-(instructions/MVP Scoping at CUNY.pdf)
-### Optional Lab Resources:
+<!-- In designing software, one must typically work with clients or constituents to delineate and refine requirements. In this discussion, Clara Bunker and Adam Brodowski, two design professionals who specialize in product iteration and rapid prototyping, will join us.to describe the process of working with clients and iterating on a design. -->
 
-[Get it RITE: Rapid Iterative Testing and Evaluation (RITE)](http://uxpamagazine.org/get_it_rite/)  
+<!-- ### Lab: Project Iteration -->
+
+<!-- In this lab, we'll do whatever Adam and Clara tell us to do. -->
+
+<!-- Update: [View the presentation](instructions/mvp_scoping_at_cuny.pdf) -->
+
+<!-- (instructions/MVP Scoping at CUNY.pdf) -->
+<!-- ### Optional Lab Resources: -->
+
+<!-- [Get it RITE: Rapid Iterative Testing and Evaluation (RITE)](http://uxpamagazine.org/get_it_rite/)   -->
 
 ----------
 
