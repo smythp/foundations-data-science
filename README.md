@@ -308,23 +308,26 @@ In this lab, we'll work together to create a small Python prototype to solve a p
 
 #### Homework
 
-Write a call for programmers (think an advertisement for a freelance site or similar) for a project for which you would be the client. I will choose a representative set of these projects and, next week, will post them for teams and individuals to take on as their client project.
+Read the new [final project options](assignments/assignment_options_2020.md)  and come prepared to workshop possibilities in class.
 
-Your description of the project should be 350-500 words and should have three sections.
 
-1. Description (What is the software that you need built? What is its purpose? Who is it for?)
-2. Requirements (What do you see right now as essential to the software? Are there any limitations that your team of software designers will need to know about?)
-3. About you or your organization (Why should a team of designers want to work on your project? Why is this software meaningful, important, or urgent? Why are you the one to ask that this software be made?)
+<!-- Write a call for programmers (think an advertisement for a freelance site or similar) for a project for which you would be the client. I will choose a representative set of these projects and, next week, will post them for teams and individuals to take on as their client project. -->
 
-Your request for software should reflect the skills we've been learning in the course. In practice this means it should be either a static website, a web app, an API, a command line program, or a Python module (a library for a task that can be imported). The project should ideally be extremely small in scope. If it's an API, it should serve up a very small data set and consist of only a few request types. If it's a static site, it should be no larger than five pages. If it's a module, it should do one simple task.
+<!-- Your description of the project should be 350-500 words and should have three sections. -->
 
-It's all Right if your post is longer than 500 words. Please upload your posting to GitHub and link me to the page where it is visible (preferred) or email it to me by Tuesday night.
+<!-- 1. Description (What is the software that you need built? What is its purpose? Who is it for?) -->
+<!-- 2. Requirements (What do you see right now as essential to the software? Are there any limitations that your team of software designers will need to know about?) -->
+<!-- 3. About you or your organization (Why should a team of designers want to work on your project? Why is this software meaningful, important, or urgent? Why are you the one to ask that this software be made?) -->
+
+<!-- Your request for software should reflect the skills we've been learning in the course. In practice this means it should be either a static website, a web app, an API, a command line program, or a Python module (a library for a task that can be imported). The project should ideally be extremely small in scope. If it's an API, it should serve up a very small data set and consist of only a few request types. If it's a static site, it should be no larger than five pages. If it's a module, it should do one simple task. -->
+
+<!-- It's all Right if your post is longer than 500 words. Please upload your posting to GitHub and link me to the page where it is visible (preferred) or email it to me by Tuesday night. -->
 
 #### Discussion: Planning final projects
 
 Our final project will involve working with a client to determine requirements, negotiate tradeoffs in choosing a technological stack, and implement a prototype or MVP. This assignment is more focused on process than results, and will be graded not on the end product but on documentation of the steps you take to get there.
 
-#### Lab: SQL
+#### Lab: (Possibly) SQL
 
 Structured Query Language (SQL) is a domain-specific language for storing and retrieving data in a database. We will use the command line interface to SQLite3, a relatively lightweight relational database engine frequently used in devices such as mobile phones, to store and retrieve structured data.
 
