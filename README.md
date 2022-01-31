@@ -88,220 +88,220 @@ Alternately, you may write a technical tutorial, with examples, that shows how t
 
 In this assignment, you will formally propose a research question, advance hypotheses, and draw a conclusion, all while backing up your arguments with supporting data. In order to fully investigate your research question, you will need to survey a number of data sets, find one or more appropriate to your question, and integrate an analysis of the data into your paper. You will have the option to collaborate in groups of up to four on this assignment, though groups will be expected to produce commensurately substantial results.
 
-<!-- ## Schedule -->
+## Schedule
 
-<!-- <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides"> -->
-
-
-<!-- <colgroup> -->
-<!-- <col  class="org-right" /> -->
-
-<!-- <col  class="org-left" /> -->
-
-<!-- <col  class="org-left" /> -->
-<!-- </colgroup> -->
-<!-- <thead> -->
-<!-- <tr> -->
-<!-- <th scope="col" class="org-right">Class #</th> -->
-<!-- <th scope="col" class="org-left">Topic</th> -->
-<!-- <th scope="col" class="org-left">Reading</th> -->
-<!-- </tr> -->
-<!-- </thead> -->
-
-<!-- <tbody> -->
-<!-- <tr> -->
-<!-- <td class="org-right">1</td> -->
-<!-- <td class="org-left">Welcome, overview, and Expressions</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">2</td> -->
-<!-- <td class="org-left">Python: Types and Conditionals</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right">Class #</th>
+<th scope="col" class="org-left">Topic</th>
+<th scope="col" class="org-left">Reading</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-right">1</td>
+<td class="org-left">Welcome, overview, and Expressions</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">3</td> -->
-<!-- <td class="org-left">Python: Collections and Iteration</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">2</td>
+<td class="org-left">Python: Types and Conditionals</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">4</td> -->
-<!-- <td class="org-left">Pandas: Series, Data Frames, and Numeric Methods</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">3</td>
+<td class="org-left">Python: Collections and Iteration</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">5</td> -->
-<!-- <td class="org-left">Practical Skill: Filesystem Structure and Input/Output</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">4</td>
+<td class="org-left">Pandas: Series, Data Frames, and Numeric Methods</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">6</td> -->
-<!-- <td class="org-left">Practical Skill: Finding Data</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">5</td>
+<td class="org-left">Practical Skill: Filesystem Structure and Input/Output</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">7</td> -->
-<!-- <td class="org-left">Pandas: Indexing, Selecting, and Comparison</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">6</td>
+<td class="org-left">Practical Skill: Finding Data</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">8</td> -->
-<!-- <td class="org-left">Python: Writing a function</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">7</td>
+<td class="org-left">Pandas: Indexing, Selecting, and Comparison</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">9</td> -->
-<!-- <td class="org-left">Pandas: Sorting, Grouping, and Concatenation</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">8</td>
+<td class="org-left">Python: Writing a function</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">10</td> -->
-<!-- <td class="org-left">Python: Introspection, Objects, and Nested Data Structures</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">9</td>
+<td class="org-left">Pandas: Sorting, Grouping, and Concatenation</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">11</td> -->
-<!-- <td class="org-left">Pandas: Cleaning and Derived Columns</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">10</td>
+<td class="org-left">Python: Introspection, Objects, and Nested Data Structures</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">12</td> -->
-<!-- <td class="org-left">Python: Comprehensions</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">11</td>
+<td class="org-left">Pandas: Cleaning and Derived Columns</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">13</td> -->
-<!-- <td class="org-left">Ethics: Anonymity and Epistemic Humility</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">12</td>
+<td class="org-left">Python: Comprehensions</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">14</td> -->
-<!-- <td class="org-left">Visualization with Matplotlib: The Humble Pie Chart</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">13</td>
+<td class="org-left">Ethics: Anonymity and Epistemic Humility</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">15</td> -->
-<!-- <td class="org-left">Visualization with Matplotlib: Scatterplot and Histogram</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">14</td>
+<td class="org-left">Visualization with Matplotlib: The Humble Pie Chart</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">16</td> -->
-<!-- <td class="org-left">Midterm</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">15</td>
+<td class="org-left">Visualization with Matplotlib: Scatterplot and Histogram</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">17</td> -->
-<!-- <td class="org-left">Statistical Concepts: The Normal Distribution</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">16</td>
+<td class="org-left">Midterm</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">18</td> -->
-<!-- <td class="org-left">Statistical Concepts: Correlation</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">17</td>
+<td class="org-left">Statistical Concepts: The Normal Distribution</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">19</td> -->
-<!-- <td class="org-left">Statistical Concepts: Linear Regression</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">18</td>
+<td class="org-left">Statistical Concepts: Correlation</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">20</td> -->
-<!-- <td class="org-left">Statistical Concepts: Regression Inference</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">19</td>
+<td class="org-left">Statistical Concepts: Linear Regression</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">21</td> -->
-<!-- <td class="org-left">Spring Cleaning and Catch Up</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">20</td>
+<td class="org-left">Statistical Concepts: Regression Inference</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">22</td> -->
-<!-- <td class="org-left">NLP: Processing Text</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">21</td>
+<td class="org-left">Spring Cleaning and Catch Up</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">23</td> -->
-<!-- <td class="org-left">NLP: Extracting Information from Text</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">22</td>
+<td class="org-left">NLP: Processing Text</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">24</td> -->
-<!-- <td class="org-left">NLP: Ngrams and Prediction</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">23</td>
+<td class="org-left">NLP: Extracting Information from Text</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">25</td> -->
-<!-- <td class="org-left">NLP: Classifying Text</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">24</td>
+<td class="org-left">NLP: Ngrams and Prediction</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">26</td> -->
-<!-- <td class="org-left">Case Study #1</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">25</td>
+<td class="org-left">NLP: Classifying Text</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">27</td> -->
-<!-- <td class="org-left">Case Study #2</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
+<tr>
+<td class="org-right">26</td>
+<td class="org-left">Case Study #1</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-<!-- <tr> -->
-<!-- <td class="org-right">28</td> -->
-<!-- <td class="org-left">Conclusion: Community and Identifying as Technical</td> -->
-<!-- <td class="org-left">&#xa0;</td> -->
-<!-- </tr> -->
-<!-- </tbody> -->
-<!-- </table> -->
+<tr>
+<td class="org-right">27</td>
+<td class="org-left">Case Study #2</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">28</td>
+<td class="org-left">Conclusion: Community and Identifying as Technical</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
