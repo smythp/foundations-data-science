@@ -51,7 +51,7 @@ In this course, you'll be evaluated on your course contribution, notes taken in 
     • Course Contribution: 15%
     • Lab Journal: 15%
     • Assignment #1 (Data Discovery): 10%
-    • Assignment #2 (Data Exploration and Cleaning): 10%
+    • Assignment #2 (Viewing and Manipulating Data): 10%
     • Midterm Exam (Data Investigation): 20% 
     • Assignment #3 (Data Response OR Technical Tutorial): 10%
     • Final Project (White Paper): 20%
@@ -70,9 +70,9 @@ Your personal lab journal is an honest reflection of your own individual technic
 
 In this assignment, you will survey an area of research or field of inquiry to find and evaluate existing data sets on the topic. You will find and provide high-level descriptions of three data sets, and choose one data set to describe more fully. The goal of this assignment is to familiarize yourself with various formats in which data can appear, to learn to access data programatically, and to evaluate what kinds of research questions can be addressed with specific forms of data. You will also familiarize yourself with the most common platforms and entities where data can be found.
 
-### Assignment #2 (Data Exploration and Cleaning)
+### Assignment #2 (Viewing and Manipulating Data)
 
-In this assignment, you will perform a preliminary analysis on a chosen data set, trying out and answering small research questions, attending curiously to missing or nonsensical data, and cleaning and transforming the data to make it suitable for answering larger research questions. 
+In this assignment, you will demonstrate your knowledge of Python and Pandas skills related to viewing and manipulating data, such as extracting columns, indexing, and sorting.
 
 ### Midterm Exam (Data Investigation)
 
