@@ -1,128 +1,128 @@
 ,Name,Subtitle,Acceleration,TopSpeed,Range,Efficiency,FastChargeSpeed,Drive,NumberofSeats,PriceinGermany,PriceinUK
-2,Nissan Leaf ,Battery Electric Vehicle |       36 kWh ,7.9 sec,144 km/h,220 km,164.0,230 km/h,Front Wheel Drive,5,29990.0,25995.0
-4,Porsche Taycan Turbo S,Battery Electric Vehicle |       83.7 kWh,2.8 sec,260 km/h,390 km,215.0,860 km/h,All Wheel Drive,4,186336.0,138830.0
-5,Nissan e-NV200 Evalia ,Battery Electric Vehicle |       36 kWh ,14.0 sec,123 km/h,165 km,218.0,170 km/h,Front Wheel Drive,7,43433.0,30255.0
-6,Volkswagen ID.3 Pure Performance,Battery Electric Vehicle |       45 kWh,8.9 sec,160 km/h,275 km,164.0,260 km/h,Rear Wheel Drive,5,31960.0,27120.0
-7,BMW iX3 ,Battery Electric Vehicle |       74 kWh,6.8 sec,180 km/h,385 km,192.0,520 km/h,Rear Wheel Drive,5,66300.0,58850.0
-8,Nissan Leaf e+,Battery Electric Vehicle |       56 kWh ,7.3 sec,157 km/h,325 km,172.0,390 km/h,Front Wheel Drive,5,38350.0,30445.0
-9,BMW i3 120 Ah,Battery Electric Vehicle |       37.9 kWh,7.3 sec,150 km/h,235 km,161.0,270 km/h,Rear Wheel Drive,4,39000.0,31305.0
-10,Mercedes EQA 250,Battery Electric Vehicle |       66.5 kWh,8.9 sec,160 km/h,355 km,187.0,420 km/h,Front Wheel Drive,5,47541.0,43495.0
-11,DS 3 Crossback E-Tense,Battery Electric Vehicle |       45 kWh ,8.7 sec,150 km/h,250 km,180.0,330 km/h,Front Wheel Drive,5,30040.0,31500.0
-12,BMW i3s 120 Ah,Battery Electric Vehicle |       37.9 kWh,6.9 sec,160 km/h,230 km,165.0,260 km/h,Rear Wheel Drive,4,42600.0,32305.0
-14,Audi e-tron GT RS,Battery Electric Vehicle |       85 kWh,3.3 sec,250 km/h,405 km,210.0,810 km/h,All Wheel Drive,4,138200.0,110950.0
-16,Renault Zoe ZE50 R110,Battery Electric Vehicle |       52 kWh,11.4 sec,135 km/h,315 km,165.0,230 km/h,Front Wheel Drive,5,31990.0,26795.0
-17,Hyundai IONIQ Electric,Battery Electric Vehicle |       38.3 kWh,9.7 sec,165 km/h,250 km,153.0,220 km/h,Front Wheel Drive,5,35350.0,30550.0
-19,Tesla Roadster ,Battery Electric Vehicle |       200 kWh ,2.1 sec,410 km/h,970 km,206.0,920 km/h,All Wheel Drive,4,215000.0,189000.0
-20,Peugeot e-208 ,Battery Electric Vehicle |       45 kWh ,8.1 sec,150 km/h,275 km,164.0,370 km/h,Front Wheel Drive,5,30450.0,27225.0
-21,Honda e ,Battery Electric Vehicle |       28.5 kWh ,9.0 sec,145 km/h,170 km,168.0,190 km/h,Rear Wheel Drive,4,33850.0,27660.0
-22,CUPRA Born 110 kW - 55 kWh,Battery Electric Vehicle |       45 kWh,8.9 sec,160 km/h,275 km,164.0,440 km/h,Rear Wheel Drive,5,32700.0,28500.0
-23,Audi Q4 e-tron 35,Battery Electric Vehicle |       51.5 kWh,9.0 sec,160 km/h,280 km,184.0,390 km/h,Rear Wheel Drive,5,41900.0,40750.0
-24,Tesla Model Y Long Range Dual Motor,Battery Electric Vehicle |       76 kWh ,5.1 sec,217 km/h,450 km,169.0,750 km/h,All Wheel Drive,7,59965.0,54000.0
-25,Tesla Model Y Performance,Battery Electric Vehicle |       76 kWh ,3.7 sec,241 km/h,430 km,177.0,720 km/h,All Wheel Drive,7,66965.0,60000.0
-26,Porsche Taycan 4 Cross Turismo,Battery Electric Vehicle |       83.7 kWh,5.1 sec,220 km/h,405 km,207.0,850 km/h,All Wheel Drive,4,93635.0,79340.0
-30,Opel Corsa-e ,Battery Electric Vehicle |       45 kWh ,8.1 sec,150 km/h,275 km,164.0,370 km/h,Front Wheel Drive,5,29000.0,27140.0
-31,MG ZS EV,Battery Electric Vehicle |       42.5 kWh ,8.2 sec,140 km/h,220 km,193.0,260 km/h,Front Wheel Drive,5,31990.0,25995.0
-32,Volkswagen ID.3 Pro,Battery Electric Vehicle |       58 kWh,9.6 sec,160 km/h,350 km,166.0,440 km/h,Rear Wheel Drive,5,34995.0,28420.0
-33,Volkswagen ID.3 Pro S,Battery Electric Vehicle |       77 kWh,7.9 sec,160 km/h,450 km,171.0,550 km/h,Rear Wheel Drive,4,41995.0,38800.0
-35,Renault Zoe ZE50 R135,Battery Electric Vehicle |       52 kWh,9.5 sec,140 km/h,310 km,168.0,230 km/h,Front Wheel Drive,5,33990.0,28795.0
-36,Peugeot e-2008 SUV ,Battery Electric Vehicle |       45 kWh ,8.5 sec,150 km/h,250 km,180.0,330 km/h,Front Wheel Drive,5,35450.0,30730.0
-37,Audi e-tron 50 quattro,Battery Electric Vehicle |       64.7 kWh,6.8 sec,190 km/h,280 km,231.0,470 km/h,All Wheel Drive,5,69100.0,60600.0
-38,Porsche Taycan Turbo,Battery Electric Vehicle |       83.7 kWh,3.2 sec,260 km/h,400 km,209.0,840 km/h,All Wheel Drive,4,153016.0,115860.0
-39,Smart EQ fortwo coupe,Battery Electric Vehicle |       16.7 kWh ,11.6 sec,130 km/h,100 km,167.0,-,Rear Wheel Drive,2,18460.0,19200.0
-40,Smart EQ fortwo cabrio,Battery Electric Vehicle |       16.7 kWh ,11.9 sec,130 km/h,95 km,176.0,-,Rear Wheel Drive,2,21720.0,21620.0
-41,Smart EQ forfour ,Battery Electric Vehicle |       16.7 kWh ,12.7 sec,130 km/h,95 km,176.0,-,Rear Wheel Drive,4,19120.0,19795.0
-42,Honda e Advance,Battery Electric Vehicle |       28.5 kWh ,8.3 sec,145 km/h,170 km,168.0,190 km/h,Rear Wheel Drive,4,38000.0,30160.0
-43,Byton M-Byte 72 kWh 2WD,Battery Electric Vehicle |       72 kWh ,7.5 sec,190 km/h,325 km,222.0,420 km/h,Rear Wheel Drive,5,53500.0,50000.0
-44,Byton M-Byte 95 kWh 4WD,Battery Electric Vehicle |       95 kWh ,5.5 sec,190 km/h,390 km,244.0,460 km/h,All Wheel Drive,5,64000.0,60000.0
-46,Porsche Taycan 4S,Battery Electric Vehicle |       71 kWh,4.0 sec,250 km/h,375 km,189.0,750 km/h,All Wheel Drive,4,106487.0,83580.0
-47,Porsche Taycan 4S Plus,Battery Electric Vehicle |       83.7 kWh,4.0 sec,250 km/h,435 km,192.0,910 km/h,All Wheel Drive,4,113008.0,88193.0
-49,Mercedes EQV 300 Long,Battery Electric Vehicle |       90 kWh,12.1 sec,160 km/h,320 km,281.0,280 km/h,Front Wheel Drive,7,71388.0,70665.0
-50,Mazda MX-30 ,Battery Electric Vehicle |       30 kWh ,9.7 sec,140 km/h,170 km,176.0,180 km/h,Front Wheel Drive,5,34490.0,26045.0
-51,Ford Mustang Mach-E SR RWD,Battery Electric Vehicle |       68 kWh,6.9 sec,180 km/h,345 km,197.0,380 km/h,Rear Wheel Drive,5,46900.0,41330.0
-52,Ford Mustang Mach-E ER RWD,Battery Electric Vehicle |       88 kWh,7.0 sec,180 km/h,440 km,200.0,430 km/h,Rear Wheel Drive,5,54475.0,49980.0
-53,Ford Mustang Mach-E SR AWD,Battery Electric Vehicle |       68 kWh,6.3 sec,180 km/h,330 km,206.0,360 km/h,All Wheel Drive,5,54000.0,46650.0
-54,Ford Mustang Mach-E ER AWD,Battery Electric Vehicle |       88 kWh,5.8 sec,180 km/h,420 km,210.0,410 km/h,All Wheel Drive,5,62900.0,57030.0
-56,Audi e-tron Sportback 50 quattro,Battery Electric Vehicle |       64.7 kWh,6.8 sec,190 km/h,295 km,219.0,490 km/h,All Wheel Drive,5,71350.0,69100.0
-57,Tesla Cybertruck Single Motor,Battery Electric Vehicle |       100 kWh ,7.0 sec,180 km/h,390 km,256.0,740 km/h,Rear Wheel Drive,7,45000.0,39000.0
-58,Tesla Cybertruck Dual Motor,Battery Electric Vehicle |       120 kWh ,5.0 sec,190 km/h,460 km,261.0,710 km/h,All Wheel Drive,7,55000.0,48000.0
-59,Tesla Cybertruck Tri Motor,Battery Electric Vehicle |       200 kWh ,3.0 sec,210 km/h,750 km,267.0,710 km/h,All Wheel Drive,7,75000.0,68000.0
-60,Lexus UX 300e,Battery Electric Vehicle |       50 kWh ,7.5 sec,160 km/h,260 km,192.0,150 km/h,Front Wheel Drive,5,47550.0,43900.0
-61,BMW i4 eDrive40,Battery Electric Vehicle |       80.7 kWh,5.7 sec,190 km/h,475 km,170.0,660 km/h,Rear Wheel Drive,5,58300.0,51905.0
-65,Audi e-tron S 55 quattro,Battery Electric Vehicle |       86.5 kWh,4.5 sec,210 km/h,320 km,270.0,510 km/h,All Wheel Drive,5,93800.0,87000.0
-66,Audi e-tron S Sportback 55 quattro,Battery Electric Vehicle |       86.5 kWh,4.5 sec,210 km/h,335 km,258.0,540 km/h,All Wheel Drive,5,96050.0,88700.0
-68,Byton M-Byte 95 kWh 2WD,Battery Electric Vehicle |       95 kWh ,7.5 sec,190 km/h,400 km,238.0,480 km/h,Rear Wheel Drive,5,62000.0,57500.0
-69,Fiat 500e Cabrio,Battery Electric Vehicle |       37.3 kWh ,9.0 sec,150 km/h,245 km,152.0,410 km/h,Front Wheel Drive,4,30560.0,26645.0
-70,Opel Mokka-e ,Battery Electric Vehicle |       45 kWh ,8.5 sec,150 km/h,255 km,176.0,340 km/h,Front Wheel Drive,5,34110.0,30540.0
-71,Skoda Enyaq iV 60,Battery Electric Vehicle |       58 kWh,8.7 sec,160 km/h,330 km,176.0,420 km/h,Rear Wheel Drive,5,38850.0,31995.0
-72,Skoda Enyaq iV 80,Battery Electric Vehicle |       77 kWh,8.6 sec,160 km/h,420 km,183.0,510 km/h,Rear Wheel Drive,5,43950.0,39350.0
-73,Skoda Enyaq iV 80X,Battery Electric Vehicle |       77 kWh,6.9 sec,160 km/h,405 km,190.0,500 km/h,All Wheel Drive,5,47000.0,42000.0
-74,Skoda Enyaq iV RS,Battery Electric Vehicle |       77 kWh,6.2 sec,180 km/h,395 km,195.0,480 km/h,All Wheel Drive,5,50000.0,45000.0
-75,Fiat 500e Hatchback 42 kWh,Battery Electric Vehicle |       37.3 kWh ,9.0 sec,150 km/h,250 km,149.0,420 km/h,Front Wheel Drive,4,27560.0,23995.0
-76,Citroen e-C4 ,Battery Electric Vehicle |       45 kWh ,9.7 sec,150 km/h,250 km,180.0,330 km/h,Front Wheel Drive,5,34640.0,30895.0
-77,Jaguar I-Pace EV400,Battery Electric Vehicle |       84.7 kWh,4.8 sec,200 km/h,365 km,232.0,340 km/h,All Wheel Drive,5,77300.0,65195.0
-80,Audi Q4 Sportback e-tron 35,Battery Electric Vehicle |       51.5 kWh,9.0 sec,160 km/h,295 km,175.0,410 km/h,Rear Wheel Drive,5,43900.0,42250.0
-81,Nissan Ariya 63kWh,Battery Electric Vehicle |       63 kWh,7.5 sec,160 km/h,335 km,188.0,450 km/h,Front Wheel Drive,5,45000.0,40000.0
-82,Nissan Ariya 87kWh,Battery Electric Vehicle |       87 kWh,7.6 sec,160 km/h,445 km,196.0,530 km/h,Front Wheel Drive,5,50000.0,45000.0
-83,Nissan Ariya e-4ORCE 63kWh,Battery Electric Vehicle |       63 kWh,5.9 sec,200 km/h,325 km,194.0,440 km/h,All Wheel Drive,5,50000.0,45000.0
-84,Nissan Ariya e-4ORCE 87kWh,Battery Electric Vehicle |       87 kWh,5.7 sec,200 km/h,420 km,207.0,500 km/h,All Wheel Drive,5,57500.0,52500.0
-85,Nissan Ariya e-4ORCE 87kWh Performance,Battery Electric Vehicle |       87 kWh,5.1 sec,200 km/h,385 km,226.0,460 km/h,All Wheel Drive,5,65000.0,57500.0
-86,Volkswagen ID.3 Pro Performance,Battery Electric Vehicle |       58 kWh,7.3 sec,160 km/h,350 km,166.0,440 km/h,Rear Wheel Drive,5,36495.0,29740.0
-88,Volkswagen ID.4 Pro Performance,Battery Electric Vehicle |       77 kWh,8.5 sec,160 km/h,410 km,188.0,500 km/h,Rear Wheel Drive,5,44450.0,41570.0
-90,Lucid Air Grand Touring,Battery Electric Vehicle |       110 kWh ,3.2 sec,270 km/h,660 km,167.0,1380 km/h,All Wheel Drive,5,140000.0,125000.0
-91,Lucid Air Touring,Battery Electric Vehicle |       85 kWh ,3.4 sec,250 km/h,530 km,160.0,1390 km/h,All Wheel Drive,5,95000.0,90000.0
-92,Lucid Air Pure,Battery Electric Vehicle |       85 kWh ,4.2 sec,200 km/h,540 km,157.0,1410 km/h,Rear Wheel Drive,5,80000.0,70000.0
-94,Tesla Model 3 Standard Range Plus LFP,Battery Electric Vehicle |       51 kWh ,5.6 sec,225 km/h,340 km,150.0,570 km/h,Rear Wheel Drive,5,43560.0,40990.0
-96,Tesla Model 3 Performance,Battery Electric Vehicle |       76 kWh ,3.3 sec,261 km/h,470 km,162.0,790 km/h,All Wheel Drive,5,58560.0,59990.0
-97,Fiat 500e Hatchback 24 kWh,Battery Electric Vehicle |       23.8 kWh ,9.5 sec,135 km/h,165 km,144.0,260 km/h,Front Wheel Drive,4,23560.0,20495.0
-99,Mercedes EQC 400 4MATIC,Battery Electric Vehicle |       80 kWh,5.1 sec,180 km/h,370 km,216.0,440 km/h,All Wheel Drive,5,66069.0,65720.0
-100,Kia e-Niro 64 kWh,Battery Electric Vehicle |       64 kWh,7.8 sec,167 km/h,370 km,173.0,350 km/h,Front Wheel Drive,5,39090.0,32445.0
-101,Kia e-Niro 39 kWh,Battery Electric Vehicle |       39.2 kWh,9.8 sec,155 km/h,235 km,167.0,230 km/h,Front Wheel Drive,5,35290.0,30345.0
-103,Citroen e-SpaceTourer M 50 kWh,Battery Electric Vehicle |       45 kWh ,12.1 sec,130 km/h,185 km,243.0,250 km/h,Front Wheel Drive,7,51440.0,31995.0
-109,Opel Zafira-e Life L 50 kWh,Battery Electric Vehicle |       45 kWh ,12.1 sec,130 km/h,180 km,250.0,240 km/h,Front Wheel Drive,7,54625.0,49465.0
-113,Peugeot e-Traveller Standard 50 kWh,Battery Electric Vehicle |       45 kWh ,13.1 sec,130 km/h,185 km,243.0,250 km/h,Front Wheel Drive,7,55900.0,49065.0
-114,Peugeot e-Traveller Long 50 kWh,Battery Electric Vehicle |       45 kWh ,13.1 sec,130 km/h,185 km,243.0,250 km/h,Front Wheel Drive,7,56690.0,49905.0
-120,Hyundai IONIQ 5 Project 45,Battery Electric Vehicle |       72.6 kWh ,5.2 sec,185 km/h,370 km,196.0,860 km/h,All Wheel Drive,5,59550.0,48000.0
-121,Porsche Taycan ,Battery Electric Vehicle |       71 kWh,5.4 sec,230 km/h,395 km,180.0,790 km/h,Rear Wheel Drive,4,83520.0,70690.0
-122,Porsche Taycan Plus,Battery Electric Vehicle |       83.7 kWh,5.4 sec,230 km/h,460 km,182.0,960 km/h,Rear Wheel Drive,4,89244.0,74739.0
-123,Tesla Model S Long Range,Battery Electric Vehicle |       90 kWh ,3.2 sec,250 km/h,555 km,162.0,830 km/h,All Wheel Drive,5,86990.0,83980.0
-124,Tesla Model S Plaid,Battery Electric Vehicle |       90 kWh ,2.1 sec,322 km/h,535 km,168.0,800 km/h,All Wheel Drive,5,126990.0,118980.0
-125,Tesla Model X Long Range,Battery Electric Vehicle |       90 kWh ,3.9 sec,250 km/h,475 km,189.0,710 km/h,All Wheel Drive,7,95990.0,90980.0
-126,Tesla Model X Plaid,Battery Electric Vehicle |       90 kWh ,2.6 sec,262 km/h,455 km,198.0,680 km/h,All Wheel Drive,7,116990.0,110980.0
-127,Mini Cooper SE ,Battery Electric Vehicle |       28.9 kWh,7.3 sec,150 km/h,185 km,156.0,260 km/h,Front Wheel Drive,4,32500.0,26000.0
-129,Volkswagen ID.4 Pure Performance,Battery Electric Vehicle |       52 kWh,9.0 sec,160 km/h,285 km,182.0,410 km/h,Rear Wheel Drive,5,38450.0,36030.0
-130,Audi e-tron GT quattro,Battery Electric Vehicle |       85 kWh,4.1 sec,245 km/h,420 km,202.0,840 km/h,All Wheel Drive,4,99800.0,79900.0
-131,Volvo C40 Recharge,Battery Electric Vehicle |       75 kWh,4.7 sec,180 km/h,340 km,221.0,440 km/h,All Wheel Drive,5,62050.0,57400.0
-132,Hyundai Kona Electric 39 kWh,Battery Electric Vehicle |       39.2 kWh,9.9 sec,155 km/h,250 km,157.0,210 km/h,Front Wheel Drive,5,35650.0,27950.0
-133,Hyundai Kona Electric 64 kWh,Battery Electric Vehicle |       64 kWh,7.9 sec,167 km/h,395 km,162.0,370 km/h,Front Wheel Drive,5,41850.0,32550.0
-134,Porsche Taycan 4S Cross Turismo,Battery Electric Vehicle |       83.7 kWh,4.1 sec,240 km/h,405 km,207.0,850 km/h,All Wheel Drive,4,111842.0,87820.0
-135,Porsche Taycan Turbo Cross Turismo,Battery Electric Vehicle |       83.7 kWh,3.3 sec,250 km/h,385 km,217.0,800 km/h,All Wheel Drive,4,154444.0,116950.0
-136,Porsche Taycan Turbo S Cross Turismo,Battery Electric Vehicle |       83.7 kWh,2.9 sec,250 km/h,380 km,220.0,790 km/h,All Wheel Drive,4,187746.0,139910.0
-137,Kia EV6 GT,Battery Electric Vehicle |       77.4 kWh ,3.5 sec,260 km/h,395 km,196.0,920 km/h,All Wheel Drive,5,65990.0,58295.0
-138,BMW iX xDrive40,Battery Electric Vehicle |       71 kWh,6.1 sec,200 km/h,350 km,203.0,470 km/h,All Wheel Drive,5,77300.0,69905.0
-139,BMW iX xDrive50,Battery Electric Vehicle |       105.2 kWh,4.6 sec,200 km/h,505 km,208.0,620 km/h,All Wheel Drive,5,98000.0,91905.0
-142,Hyundai IONIQ 5 Standard Range 2WD,Battery Electric Vehicle |       58 kWh ,8.5 sec,185 km/h,310 km,187.0,720 km/h,Rear Wheel Drive,5,41900.0,36995.0
-144,Hyundai IONIQ 5 Long Range 2WD,Battery Electric Vehicle |       72.6 kWh ,7.4 sec,185 km/h,385 km,189.0,890 km/h,Rear Wheel Drive,5,45100.0,41945.0
-145,Hyundai IONIQ 5 Long Range AWD,Battery Electric Vehicle |       72.6 kWh ,5.2 sec,185 km/h,375 km,194.0,870 km/h,All Wheel Drive,5,48900.0,45145.0
-146,Kia EV6 Standard Range 2WD,Battery Electric Vehicle |       58 kWh ,8.5 sec,185 km/h,320 km,181.0,740 km/h,Rear Wheel Drive,5,44990.0,40985.0
-147,Kia EV6 Long Range 2WD,Battery Electric Vehicle |       77.4 kWh ,7.5 sec,185 km/h,420 km,184.0,980 km/h,Rear Wheel Drive,5,54990.0,48000.0
-148,Kia EV6 Long Range AWD,Battery Electric Vehicle |       77.4 kWh ,5.4 sec,185 km/h,410 km,189.0,950 km/h,All Wheel Drive,5,56000.0,52000.0
-149,Mercedes EQS 450+,Battery Electric Vehicle |       107.8 kWh,6.2 sec,210 km/h,640 km,168.0,840 km/h,Rear Wheel Drive,5,106374.0,95000.0
-150,Mercedes EQS 580 4MATIC,Battery Electric Vehicle |       107.8 kWh,4.3 sec,210 km/h,610 km,177.0,800 km/h,All Wheel Drive,5,135529.0,115000.0
-151,Tesla Model 3 Standard Range Plus,Battery Electric Vehicle |       50 kWh ,5.6 sec,225 km/h,340 km,147.0,680 km/h,Rear Wheel Drive,5,43560.0,40990.0
-152,Polestar 2 Standard Range Single Motor,Battery Electric Vehicle |       61 kWh ,7.4 sec,160 km/h,350 km,174.0,450 km/h,Front Wheel Drive,5,46500.0,39900.0
-153,Polestar 2 Long Range Single Motor,Battery Electric Vehicle |       75 kWh ,7.4 sec,160 km/h,425 km,176.0,550 km/h,Front Wheel Drive,5,49500.0,42900.0
-154,Polestar 2 Long Range Dual Motor,Battery Electric Vehicle |       75 kWh ,4.7 sec,205 km/h,395 km,190.0,510 km/h,All Wheel Drive,5,52500.0,45900.0
-155,Volkswagen ID.4 Pure,Battery Electric Vehicle |       52 kWh,10.9 sec,160 km/h,285 km,182.0,410 km/h,Rear Wheel Drive,5,36950.0,32150.0
-156,Audi Q4 e-tron 40,Battery Electric Vehicle |       76.6 kWh,8.5 sec,160 km/h,405 km,189.0,500 km/h,Rear Wheel Drive,5,47500.0,44990.0
-157,Audi Q4 e-tron 50 quattro,Battery Electric Vehicle |       76.6 kWh,6.2 sec,180 km/h,385 km,199.0,470 km/h,All Wheel Drive,5,53600.0,51370.0
-158,Audi Q4 Sportback e-tron 50 quattro,Battery Electric Vehicle |       76.6 kWh,6.2 sec,180 km/h,400 km,192.0,490 km/h,All Wheel Drive,5,55600.0,52870.0
-159,Mercedes EQB 350 4MATIC,Battery Electric Vehicle |       66.5 kWh,6.5 sec,160 km/h,340 km,196.0,400 km/h,All Wheel Drive,7,60000.0,50000.0
-160,Volkswagen ID.4 GTX,Battery Electric Vehicle |       77 kWh,6.2 sec,180 km/h,400 km,193.0,490 km/h,All Wheel Drive,5,50415.0,55540.0
-167,CUPRA Born 150 kW - 62 kWh,Battery Electric Vehicle |       58 kWh,7.3 sec,160 km/h,350 km,166.0,440 km/h,Rear Wheel Drive,5,36770.0,30500.0
-168,CUPRA Born 170 kW - 62 kWh,Battery Electric Vehicle |       58 kWh,6.6 sec,160 km/h,345 km,168.0,430 km/h,Rear Wheel Drive,5,39000.0,31500.0
-169,CUPRA Born 170 kW - 82 kWh,Battery Electric Vehicle |       77 kWh,7.0 sec,160 km/h,450 km,171.0,550 km/h,Rear Wheel Drive,5,43000.0,42000.0
-170,BMW i4 M50,Battery Electric Vehicle |       80.7 kWh,3.9 sec,225 km/h,450 km,179.0,630 km/h,All Wheel Drive,5,69900.0,63905.0
-171,Volvo XC40 Recharge Twin Pure Electric,Battery Electric Vehicle |       75 kWh,4.9 sec,180 km/h,340 km,221.0,440 km/h,All Wheel Drive,5,59250.0,49950.0
-172,Renault Megane E-Tech Electric,Battery Electric Vehicle |       60 kWh ,8.0 sec,160 km/h,335 km,179.0,480 km/h,Front Wheel Drive,5,38000.0,32500.0
-173,Peugeot e-Rifter Standard 50 kWh,Battery Electric Vehicle |       45 kWh ,11.7 sec,135 km/h,200 km,225.0,270 km/h,Front Wheel Drive,7,37590.0,30375.0
-174,Peugeot e-Rifter Long 50 kWh,Battery Electric Vehicle |       45 kWh ,11.7 sec,135 km/h,195 km,231.0,260 km/h,Front Wheel Drive,7,42590.0,32455.0
+2,Nissan Leaf ,Battery Electric Vehicle |       36 kWh ,7.9,144 km/h,220 km,164.0,230 km/h,Front Wheel Drive,5,29990.0,25995.0
+4,Porsche Taycan Turbo S,Battery Electric Vehicle |       83.7 kWh,2.8,260 km/h,390 km,215.0,860 km/h,All Wheel Drive,4,186336.0,138830.0
+5,Nissan e-NV200 Evalia ,Battery Electric Vehicle |       36 kWh ,14.0,123 km/h,165 km,218.0,170 km/h,Front Wheel Drive,7,43433.0,30255.0
+6,Volkswagen ID.3 Pure Performance,Battery Electric Vehicle |       45 kWh,8.9,160 km/h,275 km,164.0,260 km/h,Rear Wheel Drive,5,31960.0,27120.0
+7,BMW iX3 ,Battery Electric Vehicle |       74 kWh,6.8,180 km/h,385 km,192.0,520 km/h,Rear Wheel Drive,5,66300.0,58850.0
+8,Nissan Leaf e+,Battery Electric Vehicle |       56 kWh ,7.3,157 km/h,325 km,172.0,390 km/h,Front Wheel Drive,5,38350.0,30445.0
+9,BMW i3 120 Ah,Battery Electric Vehicle |       37.9 kWh,7.3,150 km/h,235 km,161.0,270 km/h,Rear Wheel Drive,4,39000.0,31305.0
+10,Mercedes EQA 250,Battery Electric Vehicle |       66.5 kWh,8.9,160 km/h,355 km,187.0,420 km/h,Front Wheel Drive,5,47541.0,43495.0
+11,DS 3 Crossback E-Tense,Battery Electric Vehicle |       45 kWh ,8.7,150 km/h,250 km,180.0,330 km/h,Front Wheel Drive,5,30040.0,31500.0
+12,BMW i3s 120 Ah,Battery Electric Vehicle |       37.9 kWh,6.9,160 km/h,230 km,165.0,260 km/h,Rear Wheel Drive,4,42600.0,32305.0
+14,Audi e-tron GT RS,Battery Electric Vehicle |       85 kWh,3.3,250 km/h,405 km,210.0,810 km/h,All Wheel Drive,4,138200.0,110950.0
+16,Renault Zoe ZE50 R110,Battery Electric Vehicle |       52 kWh,11.4,135 km/h,315 km,165.0,230 km/h,Front Wheel Drive,5,31990.0,26795.0
+17,Hyundai IONIQ Electric,Battery Electric Vehicle |       38.3 kWh,9.7,165 km/h,250 km,153.0,220 km/h,Front Wheel Drive,5,35350.0,30550.0
+19,Tesla Roadster ,Battery Electric Vehicle |       200 kWh ,2.1,410 km/h,970 km,206.0,920 km/h,All Wheel Drive,4,215000.0,189000.0
+20,Peugeot e-208 ,Battery Electric Vehicle |       45 kWh ,8.1,150 km/h,275 km,164.0,370 km/h,Front Wheel Drive,5,30450.0,27225.0
+21,Honda e ,Battery Electric Vehicle |       28.5 kWh ,9.0,145 km/h,170 km,168.0,190 km/h,Rear Wheel Drive,4,33850.0,27660.0
+22,CUPRA Born 110 kW - 55 kWh,Battery Electric Vehicle |       45 kWh,8.9,160 km/h,275 km,164.0,440 km/h,Rear Wheel Drive,5,32700.0,28500.0
+23,Audi Q4 e-tron 35,Battery Electric Vehicle |       51.5 kWh,9.0,160 km/h,280 km,184.0,390 km/h,Rear Wheel Drive,5,41900.0,40750.0
+24,Tesla Model Y Long Range Dual Motor,Battery Electric Vehicle |       76 kWh ,5.1,217 km/h,450 km,169.0,750 km/h,All Wheel Drive,7,59965.0,54000.0
+25,Tesla Model Y Performance,Battery Electric Vehicle |       76 kWh ,3.7,241 km/h,430 km,177.0,720 km/h,All Wheel Drive,7,66965.0,60000.0
+26,Porsche Taycan 4 Cross Turismo,Battery Electric Vehicle |       83.7 kWh,5.1,220 km/h,405 km,207.0,850 km/h,All Wheel Drive,4,93635.0,79340.0
+30,Opel Corsa-e ,Battery Electric Vehicle |       45 kWh ,8.1,150 km/h,275 km,164.0,370 km/h,Front Wheel Drive,5,29000.0,27140.0
+31,MG ZS EV,Battery Electric Vehicle |       42.5 kWh ,8.2,140 km/h,220 km,193.0,260 km/h,Front Wheel Drive,5,31990.0,25995.0
+32,Volkswagen ID.3 Pro,Battery Electric Vehicle |       58 kWh,9.6,160 km/h,350 km,166.0,440 km/h,Rear Wheel Drive,5,34995.0,28420.0
+33,Volkswagen ID.3 Pro S,Battery Electric Vehicle |       77 kWh,7.9,160 km/h,450 km,171.0,550 km/h,Rear Wheel Drive,4,41995.0,38800.0
+35,Renault Zoe ZE50 R135,Battery Electric Vehicle |       52 kWh,9.5,140 km/h,310 km,168.0,230 km/h,Front Wheel Drive,5,33990.0,28795.0
+36,Peugeot e-2008 SUV ,Battery Electric Vehicle |       45 kWh ,8.5,150 km/h,250 km,180.0,330 km/h,Front Wheel Drive,5,35450.0,30730.0
+37,Audi e-tron 50 quattro,Battery Electric Vehicle |       64.7 kWh,6.8,190 km/h,280 km,231.0,470 km/h,All Wheel Drive,5,69100.0,60600.0
+38,Porsche Taycan Turbo,Battery Electric Vehicle |       83.7 kWh,3.2,260 km/h,400 km,209.0,840 km/h,All Wheel Drive,4,153016.0,115860.0
+39,Smart EQ fortwo coupe,Battery Electric Vehicle |       16.7 kWh ,11.6,130 km/h,100 km,167.0,-,Rear Wheel Drive,2,18460.0,19200.0
+40,Smart EQ fortwo cabrio,Battery Electric Vehicle |       16.7 kWh ,11.9,130 km/h,95 km,176.0,-,Rear Wheel Drive,2,21720.0,21620.0
+41,Smart EQ forfour ,Battery Electric Vehicle |       16.7 kWh ,12.7,130 km/h,95 km,176.0,-,Rear Wheel Drive,4,19120.0,19795.0
+42,Honda e Advance,Battery Electric Vehicle |       28.5 kWh ,8.3,145 km/h,170 km,168.0,190 km/h,Rear Wheel Drive,4,38000.0,30160.0
+43,Byton M-Byte 72 kWh 2WD,Battery Electric Vehicle |       72 kWh ,7.5,190 km/h,325 km,222.0,420 km/h,Rear Wheel Drive,5,53500.0,50000.0
+44,Byton M-Byte 95 kWh 4WD,Battery Electric Vehicle |       95 kWh ,5.5,190 km/h,390 km,244.0,460 km/h,All Wheel Drive,5,64000.0,60000.0
+46,Porsche Taycan 4S,Battery Electric Vehicle |       71 kWh,4.0,250 km/h,375 km,189.0,750 km/h,All Wheel Drive,4,106487.0,83580.0
+47,Porsche Taycan 4S Plus,Battery Electric Vehicle |       83.7 kWh,4.0,250 km/h,435 km,192.0,910 km/h,All Wheel Drive,4,113008.0,88193.0
+49,Mercedes EQV 300 Long,Battery Electric Vehicle |       90 kWh,12.1,160 km/h,320 km,281.0,280 km/h,Front Wheel Drive,7,71388.0,70665.0
+50,Mazda MX-30 ,Battery Electric Vehicle |       30 kWh ,9.7,140 km/h,170 km,176.0,180 km/h,Front Wheel Drive,5,34490.0,26045.0
+51,Ford Mustang Mach-E SR RWD,Battery Electric Vehicle |       68 kWh,6.9,180 km/h,345 km,197.0,380 km/h,Rear Wheel Drive,5,46900.0,41330.0
+52,Ford Mustang Mach-E ER RWD,Battery Electric Vehicle |       88 kWh,7.0,180 km/h,440 km,200.0,430 km/h,Rear Wheel Drive,5,54475.0,49980.0
+53,Ford Mustang Mach-E SR AWD,Battery Electric Vehicle |       68 kWh,6.3,180 km/h,330 km,206.0,360 km/h,All Wheel Drive,5,54000.0,46650.0
+54,Ford Mustang Mach-E ER AWD,Battery Electric Vehicle |       88 kWh,5.8,180 km/h,420 km,210.0,410 km/h,All Wheel Drive,5,62900.0,57030.0
+56,Audi e-tron Sportback 50 quattro,Battery Electric Vehicle |       64.7 kWh,6.8,190 km/h,295 km,219.0,490 km/h,All Wheel Drive,5,71350.0,69100.0
+57,Tesla Cybertruck Single Motor,Battery Electric Vehicle |       100 kWh ,7.0,180 km/h,390 km,256.0,740 km/h,Rear Wheel Drive,7,45000.0,39000.0
+58,Tesla Cybertruck Dual Motor,Battery Electric Vehicle |       120 kWh ,5.0,190 km/h,460 km,261.0,710 km/h,All Wheel Drive,7,55000.0,48000.0
+59,Tesla Cybertruck Tri Motor,Battery Electric Vehicle |       200 kWh ,3.0,210 km/h,750 km,267.0,710 km/h,All Wheel Drive,7,75000.0,68000.0
+60,Lexus UX 300e,Battery Electric Vehicle |       50 kWh ,7.5,160 km/h,260 km,192.0,150 km/h,Front Wheel Drive,5,47550.0,43900.0
+61,BMW i4 eDrive40,Battery Electric Vehicle |       80.7 kWh,5.7,190 km/h,475 km,170.0,660 km/h,Rear Wheel Drive,5,58300.0,51905.0
+65,Audi e-tron S 55 quattro,Battery Electric Vehicle |       86.5 kWh,4.5,210 km/h,320 km,270.0,510 km/h,All Wheel Drive,5,93800.0,87000.0
+66,Audi e-tron S Sportback 55 quattro,Battery Electric Vehicle |       86.5 kWh,4.5,210 km/h,335 km,258.0,540 km/h,All Wheel Drive,5,96050.0,88700.0
+68,Byton M-Byte 95 kWh 2WD,Battery Electric Vehicle |       95 kWh ,7.5,190 km/h,400 km,238.0,480 km/h,Rear Wheel Drive,5,62000.0,57500.0
+69,Fiat 500e Cabrio,Battery Electric Vehicle |       37.3 kWh ,9.0,150 km/h,245 km,152.0,410 km/h,Front Wheel Drive,4,30560.0,26645.0
+70,Opel Mokka-e ,Battery Electric Vehicle |       45 kWh ,8.5,150 km/h,255 km,176.0,340 km/h,Front Wheel Drive,5,34110.0,30540.0
+71,Skoda Enyaq iV 60,Battery Electric Vehicle |       58 kWh,8.7,160 km/h,330 km,176.0,420 km/h,Rear Wheel Drive,5,38850.0,31995.0
+72,Skoda Enyaq iV 80,Battery Electric Vehicle |       77 kWh,8.6,160 km/h,420 km,183.0,510 km/h,Rear Wheel Drive,5,43950.0,39350.0
+73,Skoda Enyaq iV 80X,Battery Electric Vehicle |       77 kWh,6.9,160 km/h,405 km,190.0,500 km/h,All Wheel Drive,5,47000.0,42000.0
+74,Skoda Enyaq iV RS,Battery Electric Vehicle |       77 kWh,6.2,180 km/h,395 km,195.0,480 km/h,All Wheel Drive,5,50000.0,45000.0
+75,Fiat 500e Hatchback 42 kWh,Battery Electric Vehicle |       37.3 kWh ,9.0,150 km/h,250 km,149.0,420 km/h,Front Wheel Drive,4,27560.0,23995.0
+76,Citroen e-C4 ,Battery Electric Vehicle |       45 kWh ,9.7,150 km/h,250 km,180.0,330 km/h,Front Wheel Drive,5,34640.0,30895.0
+77,Jaguar I-Pace EV400,Battery Electric Vehicle |       84.7 kWh,4.8,200 km/h,365 km,232.0,340 km/h,All Wheel Drive,5,77300.0,65195.0
+80,Audi Q4 Sportback e-tron 35,Battery Electric Vehicle |       51.5 kWh,9.0,160 km/h,295 km,175.0,410 km/h,Rear Wheel Drive,5,43900.0,42250.0
+81,Nissan Ariya 63kWh,Battery Electric Vehicle |       63 kWh,7.5,160 km/h,335 km,188.0,450 km/h,Front Wheel Drive,5,45000.0,40000.0
+82,Nissan Ariya 87kWh,Battery Electric Vehicle |       87 kWh,7.6,160 km/h,445 km,196.0,530 km/h,Front Wheel Drive,5,50000.0,45000.0
+83,Nissan Ariya e-4ORCE 63kWh,Battery Electric Vehicle |       63 kWh,5.9,200 km/h,325 km,194.0,440 km/h,All Wheel Drive,5,50000.0,45000.0
+84,Nissan Ariya e-4ORCE 87kWh,Battery Electric Vehicle |       87 kWh,5.7,200 km/h,420 km,207.0,500 km/h,All Wheel Drive,5,57500.0,52500.0
+85,Nissan Ariya e-4ORCE 87kWh Performance,Battery Electric Vehicle |       87 kWh,5.1,200 km/h,385 km,226.0,460 km/h,All Wheel Drive,5,65000.0,57500.0
+86,Volkswagen ID.3 Pro Performance,Battery Electric Vehicle |       58 kWh,7.3,160 km/h,350 km,166.0,440 km/h,Rear Wheel Drive,5,36495.0,29740.0
+88,Volkswagen ID.4 Pro Performance,Battery Electric Vehicle |       77 kWh,8.5,160 km/h,410 km,188.0,500 km/h,Rear Wheel Drive,5,44450.0,41570.0
+90,Lucid Air Grand Touring,Battery Electric Vehicle |       110 kWh ,3.2,270 km/h,660 km,167.0,1380 km/h,All Wheel Drive,5,140000.0,125000.0
+91,Lucid Air Touring,Battery Electric Vehicle |       85 kWh ,3.4,250 km/h,530 km,160.0,1390 km/h,All Wheel Drive,5,95000.0,90000.0
+92,Lucid Air Pure,Battery Electric Vehicle |       85 kWh ,4.2,200 km/h,540 km,157.0,1410 km/h,Rear Wheel Drive,5,80000.0,70000.0
+94,Tesla Model 3 Standard Range Plus LFP,Battery Electric Vehicle |       51 kWh ,5.6,225 km/h,340 km,150.0,570 km/h,Rear Wheel Drive,5,43560.0,40990.0
+96,Tesla Model 3 Performance,Battery Electric Vehicle |       76 kWh ,3.3,261 km/h,470 km,162.0,790 km/h,All Wheel Drive,5,58560.0,59990.0
+97,Fiat 500e Hatchback 24 kWh,Battery Electric Vehicle |       23.8 kWh ,9.5,135 km/h,165 km,144.0,260 km/h,Front Wheel Drive,4,23560.0,20495.0
+99,Mercedes EQC 400 4MATIC,Battery Electric Vehicle |       80 kWh,5.1,180 km/h,370 km,216.0,440 km/h,All Wheel Drive,5,66069.0,65720.0
+100,Kia e-Niro 64 kWh,Battery Electric Vehicle |       64 kWh,7.8,167 km/h,370 km,173.0,350 km/h,Front Wheel Drive,5,39090.0,32445.0
+101,Kia e-Niro 39 kWh,Battery Electric Vehicle |       39.2 kWh,9.8,155 km/h,235 km,167.0,230 km/h,Front Wheel Drive,5,35290.0,30345.0
+103,Citroen e-SpaceTourer M 50 kWh,Battery Electric Vehicle |       45 kWh ,12.1,130 km/h,185 km,243.0,250 km/h,Front Wheel Drive,7,51440.0,31995.0
+109,Opel Zafira-e Life L 50 kWh,Battery Electric Vehicle |       45 kWh ,12.1,130 km/h,180 km,250.0,240 km/h,Front Wheel Drive,7,54625.0,49465.0
+113,Peugeot e-Traveller Standard 50 kWh,Battery Electric Vehicle |       45 kWh ,13.1,130 km/h,185 km,243.0,250 km/h,Front Wheel Drive,7,55900.0,49065.0
+114,Peugeot e-Traveller Long 50 kWh,Battery Electric Vehicle |       45 kWh ,13.1,130 km/h,185 km,243.0,250 km/h,Front Wheel Drive,7,56690.0,49905.0
+120,Hyundai IONIQ 5 Project 45,Battery Electric Vehicle |       72.6 kWh ,5.2,185 km/h,370 km,196.0,860 km/h,All Wheel Drive,5,59550.0,48000.0
+121,Porsche Taycan ,Battery Electric Vehicle |       71 kWh,5.4,230 km/h,395 km,180.0,790 km/h,Rear Wheel Drive,4,83520.0,70690.0
+122,Porsche Taycan Plus,Battery Electric Vehicle |       83.7 kWh,5.4,230 km/h,460 km,182.0,960 km/h,Rear Wheel Drive,4,89244.0,74739.0
+123,Tesla Model S Long Range,Battery Electric Vehicle |       90 kWh ,3.2,250 km/h,555 km,162.0,830 km/h,All Wheel Drive,5,86990.0,83980.0
+124,Tesla Model S Plaid,Battery Electric Vehicle |       90 kWh ,2.1,322 km/h,535 km,168.0,800 km/h,All Wheel Drive,5,126990.0,118980.0
+125,Tesla Model X Long Range,Battery Electric Vehicle |       90 kWh ,3.9,250 km/h,475 km,189.0,710 km/h,All Wheel Drive,7,95990.0,90980.0
+126,Tesla Model X Plaid,Battery Electric Vehicle |       90 kWh ,2.6,262 km/h,455 km,198.0,680 km/h,All Wheel Drive,7,116990.0,110980.0
+127,Mini Cooper SE ,Battery Electric Vehicle |       28.9 kWh,7.3,150 km/h,185 km,156.0,260 km/h,Front Wheel Drive,4,32500.0,26000.0
+129,Volkswagen ID.4 Pure Performance,Battery Electric Vehicle |       52 kWh,9.0,160 km/h,285 km,182.0,410 km/h,Rear Wheel Drive,5,38450.0,36030.0
+130,Audi e-tron GT quattro,Battery Electric Vehicle |       85 kWh,4.1,245 km/h,420 km,202.0,840 km/h,All Wheel Drive,4,99800.0,79900.0
+131,Volvo C40 Recharge,Battery Electric Vehicle |       75 kWh,4.7,180 km/h,340 km,221.0,440 km/h,All Wheel Drive,5,62050.0,57400.0
+132,Hyundai Kona Electric 39 kWh,Battery Electric Vehicle |       39.2 kWh,9.9,155 km/h,250 km,157.0,210 km/h,Front Wheel Drive,5,35650.0,27950.0
+133,Hyundai Kona Electric 64 kWh,Battery Electric Vehicle |       64 kWh,7.9,167 km/h,395 km,162.0,370 km/h,Front Wheel Drive,5,41850.0,32550.0
+134,Porsche Taycan 4S Cross Turismo,Battery Electric Vehicle |       83.7 kWh,4.1,240 km/h,405 km,207.0,850 km/h,All Wheel Drive,4,111842.0,87820.0
+135,Porsche Taycan Turbo Cross Turismo,Battery Electric Vehicle |       83.7 kWh,3.3,250 km/h,385 km,217.0,800 km/h,All Wheel Drive,4,154444.0,116950.0
+136,Porsche Taycan Turbo S Cross Turismo,Battery Electric Vehicle |       83.7 kWh,2.9,250 km/h,380 km,220.0,790 km/h,All Wheel Drive,4,187746.0,139910.0
+137,Kia EV6 GT,Battery Electric Vehicle |       77.4 kWh ,3.5,260 km/h,395 km,196.0,920 km/h,All Wheel Drive,5,65990.0,58295.0
+138,BMW iX xDrive40,Battery Electric Vehicle |       71 kWh,6.1,200 km/h,350 km,203.0,470 km/h,All Wheel Drive,5,77300.0,69905.0
+139,BMW iX xDrive50,Battery Electric Vehicle |       105.2 kWh,4.6,200 km/h,505 km,208.0,620 km/h,All Wheel Drive,5,98000.0,91905.0
+142,Hyundai IONIQ 5 Standard Range 2WD,Battery Electric Vehicle |       58 kWh ,8.5,185 km/h,310 km,187.0,720 km/h,Rear Wheel Drive,5,41900.0,36995.0
+144,Hyundai IONIQ 5 Long Range 2WD,Battery Electric Vehicle |       72.6 kWh ,7.4,185 km/h,385 km,189.0,890 km/h,Rear Wheel Drive,5,45100.0,41945.0
+145,Hyundai IONIQ 5 Long Range AWD,Battery Electric Vehicle |       72.6 kWh ,5.2,185 km/h,375 km,194.0,870 km/h,All Wheel Drive,5,48900.0,45145.0
+146,Kia EV6 Standard Range 2WD,Battery Electric Vehicle |       58 kWh ,8.5,185 km/h,320 km,181.0,740 km/h,Rear Wheel Drive,5,44990.0,40985.0
+147,Kia EV6 Long Range 2WD,Battery Electric Vehicle |       77.4 kWh ,7.5,185 km/h,420 km,184.0,980 km/h,Rear Wheel Drive,5,54990.0,48000.0
+148,Kia EV6 Long Range AWD,Battery Electric Vehicle |       77.4 kWh ,5.4,185 km/h,410 km,189.0,950 km/h,All Wheel Drive,5,56000.0,52000.0
+149,Mercedes EQS 450+,Battery Electric Vehicle |       107.8 kWh,6.2,210 km/h,640 km,168.0,840 km/h,Rear Wheel Drive,5,106374.0,95000.0
+150,Mercedes EQS 580 4MATIC,Battery Electric Vehicle |       107.8 kWh,4.3,210 km/h,610 km,177.0,800 km/h,All Wheel Drive,5,135529.0,115000.0
+151,Tesla Model 3 Standard Range Plus,Battery Electric Vehicle |       50 kWh ,5.6,225 km/h,340 km,147.0,680 km/h,Rear Wheel Drive,5,43560.0,40990.0
+152,Polestar 2 Standard Range Single Motor,Battery Electric Vehicle |       61 kWh ,7.4,160 km/h,350 km,174.0,450 km/h,Front Wheel Drive,5,46500.0,39900.0
+153,Polestar 2 Long Range Single Motor,Battery Electric Vehicle |       75 kWh ,7.4,160 km/h,425 km,176.0,550 km/h,Front Wheel Drive,5,49500.0,42900.0
+154,Polestar 2 Long Range Dual Motor,Battery Electric Vehicle |       75 kWh ,4.7,205 km/h,395 km,190.0,510 km/h,All Wheel Drive,5,52500.0,45900.0
+155,Volkswagen ID.4 Pure,Battery Electric Vehicle |       52 kWh,10.9,160 km/h,285 km,182.0,410 km/h,Rear Wheel Drive,5,36950.0,32150.0
+156,Audi Q4 e-tron 40,Battery Electric Vehicle |       76.6 kWh,8.5,160 km/h,405 km,189.0,500 km/h,Rear Wheel Drive,5,47500.0,44990.0
+157,Audi Q4 e-tron 50 quattro,Battery Electric Vehicle |       76.6 kWh,6.2,180 km/h,385 km,199.0,470 km/h,All Wheel Drive,5,53600.0,51370.0
+158,Audi Q4 Sportback e-tron 50 quattro,Battery Electric Vehicle |       76.6 kWh,6.2,180 km/h,400 km,192.0,490 km/h,All Wheel Drive,5,55600.0,52870.0
+159,Mercedes EQB 350 4MATIC,Battery Electric Vehicle |       66.5 kWh,6.5,160 km/h,340 km,196.0,400 km/h,All Wheel Drive,7,60000.0,50000.0
+160,Volkswagen ID.4 GTX,Battery Electric Vehicle |       77 kWh,6.2,180 km/h,400 km,193.0,490 km/h,All Wheel Drive,5,50415.0,55540.0
+167,CUPRA Born 150 kW - 62 kWh,Battery Electric Vehicle |       58 kWh,7.3,160 km/h,350 km,166.0,440 km/h,Rear Wheel Drive,5,36770.0,30500.0
+168,CUPRA Born 170 kW - 62 kWh,Battery Electric Vehicle |       58 kWh,6.6,160 km/h,345 km,168.0,430 km/h,Rear Wheel Drive,5,39000.0,31500.0
+169,CUPRA Born 170 kW - 82 kWh,Battery Electric Vehicle |       77 kWh,7.0,160 km/h,450 km,171.0,550 km/h,Rear Wheel Drive,5,43000.0,42000.0
+170,BMW i4 M50,Battery Electric Vehicle |       80.7 kWh,3.9,225 km/h,450 km,179.0,630 km/h,All Wheel Drive,5,69900.0,63905.0
+171,Volvo XC40 Recharge Twin Pure Electric,Battery Electric Vehicle |       75 kWh,4.9,180 km/h,340 km,221.0,440 km/h,All Wheel Drive,5,59250.0,49950.0
+172,Renault Megane E-Tech Electric,Battery Electric Vehicle |       60 kWh ,8.0,160 km/h,335 km,179.0,480 km/h,Front Wheel Drive,5,38000.0,32500.0
+173,Peugeot e-Rifter Standard 50 kWh,Battery Electric Vehicle |       45 kWh ,11.7,135 km/h,200 km,225.0,270 km/h,Front Wheel Drive,7,37590.0,30375.0
+174,Peugeot e-Rifter Long 50 kWh,Battery Electric Vehicle |       45 kWh ,11.7,135 km/h,195 km,231.0,260 km/h,Front Wheel Drive,7,42590.0,32455.0
