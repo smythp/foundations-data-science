@@ -2,33 +2,33 @@
 #+LATEX_HEADER: \usepackage{nopageno}
 
 
-| Class # | Topic                                                      | Reading |
-|---------+------------------------------------------------------------+---------|
-|       1 | Welcome, overview, and Expressions                         |         |
-|       2 | Python: Types and Conditionals                             |         |
-|       3 | Python: Collections and Iteration                          |         |
-|       4 | Pandas: Series, Data Frames, and Numeric Methods           |         |
-|       5 | Practical Skill: Filesystem Structure and Input/Output     |         |
-|       6 | Practical Skill: Finding Data                              |         |
-|       7 | Pandas: Indexing, Selecting, and Comparison                |         |
-|       8 | Python: Writing a function                                 |         |
-|       9 | Pandas: Sorting, Grouping, and Concatenation               |         |
-|      10 | Python: Introspection, Objects, and Nested Data Structures |         |
-|      11 | Pandas: Cleaning and Derived Columns                       |         |
-|      12 | Python: Comprehensions                                     |         |
-|      13 | Ethics: Anonymity and Epistemic Humility                   |         |
-|      14 | Visualization with Matplotlib: The Humble Pie Chart        |         |
-|      15 | Visualization with Matplotlib: Scatterplot and Histogram   |         |
-|      16 | Midterm                                                    |         |
-|      17 | Statistical Concepts: The Normal Distribution              |         |
-|      18 | Statistical Concepts: Correlation                          |         |
-|      19 | Statistical Concepts: Linear Regression                    |         |
-|      20 | Statistical Concepts: Regression Inference                 |         |
-|      21 | Spring Cleaning and Catch Up                               |         |
-|      22 | NLP: Processing Text                                       |         |
-|      23 | NLP: Extracting Information from Text                      |         |
-|      24 | NLP: Ngrams and Prediction                                 |         |
-|      25 | NLP: Classifying Text                                      |         |
-|      26 | Case Study #1                                              |         |
-|      27 | Case Study #2                                              |         |
-|      28 | Conclusion: Community and Identifying as Technical         |         |
+| Class # | Topic                                                      | 
+|---------+------------------------------------------------------------|
+|       1 | Welcome, overview, and Jupyter Notebooks                  |
+|       2 | Python: Types and Conditionals                             |
+|       3 | Python: Collections and Iteration                          |
+|       4 | Pandas: Series, Data Frames, and Numeric Methods           |
+|       5 | Practical Skill: Filesystem Structure and Input/Output     |
+|       6 | Practical Skill: Finding Data                              |
+|       7 | Pandas: Indexing, Selecting, and Comparison                |
+|       8 | Python: Writing a function                                 |
+|       9 | Pandas: Sorting, Grouping, and Concatenation               |
+|      10 | Python: Introspection, Objects, and Nested Data Structures |
+|      11 | Pandas: Cleaning and Derived Columns                       |
+|      12 | Python: Comprehensions                                     |
+|      13 | Ethics: Anonymity and Epistemic Humility                   |
+|      14 | Visualization with Matplotlib: The Humble Pie Chart        |
+|      15 | Visualization with Matplotlib: Scatterplot and Histogram   |
+|      16 | Midterm                                                    |
+|      17 | Statistical Concepts: The Normal Distribution              |
+|      18 | Statistical Concepts: Correlation                          |
+|      19 | Statistical Concepts: Linear Regression                    |
+|      20 | Statistical Concepts: Regression Inference                 |
+|      21 | Spring Cleaning and Catch Up                               |
+|      22 | NLP: Processing Text                                       |
+|      23 | NLP: Extracting Information from Text                      |
+|      24 | NLP: Ngrams and Prediction                                 |
+|      25 | NLP: Classifying Text                                      |
+|      26 | Case Study #1                                              |
+|      27 | Case Study #2                                              |
+|      28 | Conclusion: Community and Identifying as Technical         |

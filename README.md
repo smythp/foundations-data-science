@@ -1,25 +1,23 @@
 # Foundations of Data Science  
 
-CSC 10800  
+CSC 31167-T
 Department of Computer Science  
 The City College of New York, CUNY  
 
-Course Number: 61813  
-Room: NAC 1/340  
-Time: 12:30 PM - 1:45 PM  
-Schedule: Mondays / Wednesdays  
+Course Number: 46302  
+Room: NAC 6/311
+Time: 6:30PM - 7:45PM
+Schedule: Tuesdays and Thursdays
 Credits/Hours: 3 Credits/3 Hours   
 
 Dr. Patrick Smyth   
 patricksmyth01@gmail.com  
+psmyth@ccny.cuny.edu  
 [First-Day Information Collection Form](https://docs.google.com/forms/d/e/1FAIpQLSeoXk2ow9Yzn-CqH5-t5qgB1rGyXSWstJB7Yx7ptbcUng2BRg/viewform?usp=sf_link)  
-[Link to Lab Journal Template](https://docs.google.com/document/d/1xPNuh5B3XjZH4Gm7uMMoWxwquVnOuhHqvVKl95gqu8E/copy#heading=h.rfmw64dsh0e4)  
 
 ## Course Description
 
 This course introduces the fundamental concepts and computational techniques of data science to all students, including those majoring in the Arts, Humanities, and Social Sciences. Students engage with data arising from real-world phenomena—including literary corpora, spatial datasets, and social networks data—to learn analytical skills such as inferential thinking and computational thinking. The competencies learned in this course will provide students with skills that will be of use in their professional careers, as well as tools to better understand, quantitatively and qualitatively, the social world around them. Finally, by teaching critical concepts and skills in computer programming and statistical inference, the course prepares students for further coursework in technology-dependent subjects, such as Digital Humanities.
-
-This course is based on the Fall 2021 iteration of the Data 8: The Foundations of Data Science syllabus and has been further developed under a Creative Commons license.
 
 ## Course Learning Outcomes: 
 
@@ -32,9 +30,7 @@ This course is based on the Fall 2021 iteration of the Data 8: The Foundations o
 
 ## Course Texts
 
-Adhikari, Andi; John DeNero; and David Wagner. 2021. Computational and Inferential Thinking: The Foundations of Data Science. 2nd Edition. 
-
-This textbook is a free online textbook that includes interactive Jupyter notebooks and public data sets for all examples. The textbook source is maintained as an open source project.
+The primary corse text will be notebooks shared in this repository. 
 
 Other readings will be assigned from *Data Science from Scratch* by Joel Grus and will be provided as excerpts in digital form.
 
@@ -48,23 +44,33 @@ If a reasonable accommodation by myself or City College would help you to achiev
 
 In this course, you'll be evaluated on your course contribution, notes taken in a lab journal, a take-home midterm, and a final project. 
 
-    • Course Contribution: 15%
-    • Lab Journal: 15%
+    • Course Contribution: 25%
+    • Notebook and Python dry run: 5%
     • Assignment #1 (Data Discovery): 10%
     • Assignment #2 (Viewing and Manipulating Data): 10%
     • Midterm Exam (Data Investigation): 20% 
     • Assignment #3 (Data Response OR Technical Tutorial): 10%
     • Final Project (White Paper): 20%
+    • (Bonus) Lab Journal : 5%
 
 ## Class Contribution
 
-This portion of your grade is based on your participation in weekly discussions and technical work performed during class.
+This portion of your grade is based on your participation in weekly discussions and technical work performed during class. If you need to miss class, please email or speak with me beforehand. After three absences, you will receive a significant penalty to the course contribution grade, which can make it difficult to receive a good or passing grade in the course. Unexcused absences will also be reflected in your course contribution grade.
 
 ## Lab Journal
 
-Your personal lab journal is an honest reflection of your own individual technical study. Every week, you will write the amount of time you spent on technical learning and experimentation and thoughts on your progress. The journal is intended as a mechanism to provide credit to you for time-consuming technical work, as well as to allow you to calibrate your habits and find out what approaches to study are most effective for you. To encourage the honesty needed for the journal to be useful, you may take two health weeks where you record no entries. Your lab journal can be kept on Google Docs or on GitHub.
+The lab journal is a bonus exercise worth an additional 5%. If you choose not to write a lab journal, you will not be penalized in the course grade.
+
+If you choose to create one, your personal lab journal is an honest reflection of your own individual technical study. Every week, you will write the amount of time you spent on technical learning and experimentation and thoughts on your progress. The journal is intended as a mechanism to provide credit to you for time-consuming technical work, as well as to allow you to calibrate your habits and find out what approaches to study are most effective for you. To encourage the honesty needed for the journal to be useful, you may take two health weeks where you record no entries. Your lab journal can be kept on Google Docs or on GitHub.
 
 ## Assignment Descriptions
+
+Notebooks and PDFs for assignments #1, #2, and #3 are viewable in the [assignments folder](https://github.com/smythp/foundations-data-science/tree/master/assignments) in this repository. The midterm and final project descriptions will be made available on Blackboard.
+
+### Notebook and Python Dry Run
+
+A first pre-assignment will check that you can use a Jupyter notebook and write fundamental Python expressions.
+
 
 ### Assignment #1 (Data Discovery)
 
@@ -97,211 +103,152 @@ In this assignment, you will formally propose a research question, advance hypot
 <col  class="org-right" />
 
 <col  class="org-left" />
-
-<col  class="org-left" />
 </colgroup>
 <thead>
 <tr>
 <th scope="col" class="org-right">Class #</th>
 <th scope="col" class="org-left">Topic</th>
-<th scope="col" class="org-left">Reading</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td class="org-right">1</td>
-<td class="org-left">Welcome, overview, and Expressions</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Welcome, overview, and Jupyter Notebooks</td>
 </tr>
-
 
 <tr>
 <td class="org-right">2</td>
 <td class="org-left">Python: Types and Conditionals</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">3</td>
 <td class="org-left">Python: Collections and Iteration</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">4</td>
 <td class="org-left">Pandas: Series, Data Frames, and Numeric Methods</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">5</td>
 <td class="org-left">Practical Skill: Filesystem Structure and Input/Output</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">6</td>
 <td class="org-left">Practical Skill: Finding Data</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">7</td>
 <td class="org-left">Pandas: Indexing, Selecting, and Comparison</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">8</td>
 <td class="org-left">Python: Writing a function</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">9</td>
 <td class="org-left">Pandas: Sorting, Grouping, and Concatenation</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">10</td>
 <td class="org-left">Python: Introspection, Objects, and Nested Data Structures</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">11</td>
 <td class="org-left">Pandas: Cleaning and Derived Columns</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">12</td>
 <td class="org-left">Python: Comprehensions</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">13</td>
 <td class="org-left">Ethics: Anonymity and Epistemic Humility</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">14</td>
 <td class="org-left">Visualization with Matplotlib: The Humble Pie Chart</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">15</td>
 <td class="org-left">Visualization with Matplotlib: Scatterplot and Histogram</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">16</td>
 <td class="org-left">Midterm</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">17</td>
 <td class="org-left">Statistical Concepts: The Normal Distribution</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">18</td>
 <td class="org-left">Statistical Concepts: Correlation</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">19</td>
 <td class="org-left">Statistical Concepts: Linear Regression</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">20</td>
 <td class="org-left">Statistical Concepts: Regression Inference</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">21</td>
 <td class="org-left">Spring Cleaning and Catch Up</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">22</td>
 <td class="org-left">NLP: Processing Text</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">23</td>
 <td class="org-left">NLP: Extracting Information from Text</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">24</td>
 <td class="org-left">NLP: Ngrams and Prediction</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">25</td>
 <td class="org-left">NLP: Classifying Text</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">26</td>
 <td class="org-left">Case Study #1</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">27</td>
 <td class="org-left">Case Study #2</td>
-<td class="org-left">&#xa0;</td>
 </tr>
-
 
 <tr>
 <td class="org-right">28</td>
 <td class="org-left">Conclusion: Community and Identifying as Technical</td>
-<td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
 </table>
