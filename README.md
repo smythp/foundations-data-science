@@ -1,25 +1,25 @@
-# Foundations of Data Science  
+# Foundations of Data Science
 
 CSC 31167-T
-Department of Computer Science  
-The City College of New York, CUNY  
+Department of Computer Science
+The City College of New York, CUNY
 
-Course Number: 46302  
+Course Number: 46302
 Room: NAC 6/311
 Time: 6:30PM - 7:45PM
 Schedule: Tuesdays and Thursdays
-Credits/Hours: 3 Credits/3 Hours   
+Credits/Hours: 3 Credits/3 Hours
 
-Dr. Patrick Smyth   
-patricksmyth01@gmail.com  
-psmyth@ccny.cuny.edu  
-[First-Day Information Collection Form](https://docs.google.com/forms/d/e/1FAIpQLSeoXk2ow9Yzn-CqH5-t5qgB1rGyXSWstJB7Yx7ptbcUng2BRg/viewform?usp=sf_link)  
+Dr. Patrick Smyth
+patricksmyth01@gmail.com
+psmyth@ccny.cuny.edu
+[First-Day Information Collection Form](https://docs.google.com/forms/d/e/1FAIpQLSeoXk2ow9Yzn-CqH5-t5qgB1rGyXSWstJB7Yx7ptbcUng2BRg/viewform?usp=sf_link)
 
 ## Course Description
 
 This course introduces the fundamental concepts and computational techniques of data science to all students, including those majoring in the Arts, Humanities, and Social Sciences. Students engage with data arising from real-world phenomena—including literary corpora, spatial datasets, and social networks data—to learn analytical skills such as inferential thinking and computational thinking. The competencies learned in this course will provide students with skills that will be of use in their professional careers, as well as tools to better understand, quantitatively and qualitatively, the social world around them. Finally, by teaching critical concepts and skills in computer programming and statistical inference, the course prepares students for further coursework in technology-dependent subjects, such as Digital Humanities.
 
-## Course Learning Outcomes: 
+## Course Learning Outcomes:
 
 - Interpret and draw appropriate inferences from quantitative representations, such as formulas, graphs, or tables.
 - Use algebraic, numerical, graphical, or statistical methods to draw accurate conclusions and solve mathematical problems.
@@ -30,11 +30,11 @@ This course introduces the fundamental concepts and computational techniques of 
 
 ## Course Texts
 
-The primary corse text will be notebooks shared in this repository. 
+The primary corse text will be notebooks shared in this repository.
 
 Other readings will be assigned from *Data Science from Scratch* by Joel Grus and will be provided as excerpts in digital form.
 
-You may wish to purchase a primer on the Python programming language. Two possibilities here are *Head First Python* and *Learn Python 3 the Hard Way*. 
+You may wish to purchase a primer on the Python programming language. Two possibilities here are *Head First Python* and *Learn Python 3 the Hard Way*.
 
 ## Accessibility and Accomodations
 
@@ -42,16 +42,15 @@ If a reasonable accommodation by myself or City College would help you to achiev
 
 ## Assessment Overview
 
-In this course, you'll be evaluated on your course contribution, notes taken in a lab journal, a take-home midterm, and a final project. 
+In this course, you'll be evaluated on your course contribution, notes taken in a lab journal, a take-home midterm, and a final project.
 
-    • Course Contribution: 25%
-    • Notebook and Python dry run: 5%
-    • Assignment #1 (Data Discovery): 10%
-    • Assignment #2 (Viewing and Manipulating Data): 10%
-    • Midterm Exam (Data Investigation): 20% 
-    • Assignment #3 (Data Response OR Technical Tutorial): 10%
-    • Final Project (White Paper): 20%
-    • (Bonus) Lab Journal : 5%
+	• Course Contribution: 25%
+	• Notebook and Python dry run: 5%
+	• Assignment #1 (Data Discovery): 10%
+	• Assignment #2 (Viewing and Manipulating Data): 10%
+	• Midterm Exam (Data Investigation): 20%
+	• Assignment #3 (Statistical Methods): 10%
+	• Final Project (White Paper): 20%
 
 ## Class Contribution
 
@@ -82,9 +81,9 @@ In this assignment, you will demonstrate your knowledge of Python and Pandas ski
 
 ### Midterm Exam (Data Investigation)
 
-For your midterm, you will make a series of observations and extract insights by performing an open-ended analysis of a data set. In the process, you will need to use a certain number of specific techniques and methodologies taught in class up to the point of the exam. 
+For your midterm, you will make a series of observations and extract insights by performing an open-ended analysis of a data set. In the process, you will need to use a certain number of specific techniques and methodologies taught in class up to the point of the exam.
 
-### Assignment #3 (Data Response OR Technical Tutorial) 
+### Assignment #3 (Data Response OR Technical Tutorial)
 
 In this assignment, you will critically examine an argument offered in a research paper, white paper, or (data-informed) blog post and respond to the specific claims presented. In responding, you will offer your own write-up based on analysis of a data set.
 
